@@ -16,6 +16,6 @@ services:
       - key: PYTHON_VERSION
         value: "3.12.6"
       - key: ALLOWED_ORIGINS
-        value: "https://clearimpact.com,https://www.clearimpact.com"
+        value: "https://clearimpact.com,https://www.clearimpact.com,https://support.clearimpact.com"
       - key: RATE_LIMIT_PER_MIN
         value: "20"
