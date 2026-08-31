@@ -1,0 +1,13 @@
+dotnet/
+widget/
+kb/
+*.zip
+__pycache__/
+*.pyc
+.env
+manifest.json
+export_skipped.txt
+update.bat
+README*.md
+DOCKER.md
+.git/

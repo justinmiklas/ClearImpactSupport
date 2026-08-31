@@ -1,0 +1,21 @@
+# Render Blueprint — deploys the support bot as a public web service that serves
+# BOTH the chat page (/) and the chat API (/chat).
+services:
+  - type: web
+    name: clearimpact-support-bot
+    runtime: python
+    plan: starter            # "starter" ($7/mo) stays warm; "free" works but sleeps when idle
+    region: oregon
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "uvicorn server:app --host 0.0.0.0 --port $PORT"
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: GEMINI_API_KEY          # paste in Render dashboard (same key used by kb_sync)
+        sync: false
+      - key: PYTHON_VERSION
+        value: "3.12.6"
+      - key: ALLOWED_ORIGINS
+        value: "https://clearimpact.com,https://www.clearimpact.com"
+      - key: RATE_LIMIT_PER_MIN
+        value: "20"

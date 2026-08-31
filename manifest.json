@@ -1,0 +1,2489 @@
+{
+  "_store": "fileSearchStores/supportkb-3vtyvcjuw2g5",
+  "articles": {
+    "compyle-0.-intro-to-compyle-overview": {
+      "hash": "40b8114fee01338e514af2fd6b37fe8c937425c4a897e5601577277a5c9ee3a6",
+      "title": "Comprehensive Intro to Compyle (1 hour)",
+      "url": "https://support.clearimpact.com/en/0.-intro-to-compyle-overview",
+      "product": "compyle",
+      "category": "Compyle Overview Videos",
+      "path": "compyle\\0.-intro-to-compyle-overview.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyle0introtocompyleoverv-o02cwmu0slfy"
+    },
+    "compyle-adding-organizations-to-my-site": {
+      "hash": "4e229b83f87112632c21b5cd971e2ac5fcb61a6fe21c38cfcd2b7a180bf5cd68",
+      "title": "Adding Organizations to My Site",
+      "url": "https://support.clearimpact.com/en/adding-organizations-to-my-site",
+      "product": "compyle",
+      "category": "FAQ (Compyle)",
+      "path": "compyle\\adding-organizations-to-my-site.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleaddingorganizationst-tzjod3mx4g4t"
+    },
+    "compyle-analytics-2": {
+      "hash": "059979fbe9691bc2812c6e068a03cbdab3d1af655ae50331fb8ac44c4a7d4e9d",
+      "title": "Analytics",
+      "url": "https://support.clearimpact.com/en/analytics-2",
+      "product": "compyle",
+      "category": "Compyle Overview",
+      "path": "compyle\\analytics-2.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleanalytics2-9owtixa298fu"
+    },
+    "compyle-analytics": {
+      "hash": "44f02fafabcd1204311b71e98bcec4ea405239ca973e9d779a3d11b8ae910a35",
+      "title": "Video 4: Analytics",
+      "url": "https://support.clearimpact.com/en/analytics",
+      "product": "compyle",
+      "category": "Compyle Overview Videos",
+      "path": "compyle\\analytics.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleanalytics-5dz4zuay9m64"
+    },
+    "compyle-anonymous-responses": {
+      "hash": "420d1b45a32883be5721d4ede64b0df10680935261d1664026ebb7df28578965",
+      "title": "Anonymous Responses",
+      "url": "https://support.clearimpact.com/en/anonymous-responses",
+      "product": "compyle",
+      "category": "Data Collection",
+      "path": "compyle\\anonymous-responses.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleanonymousresponses-tbnu88qdd0lm"
+    },
+    "compyle-archiving-a-scorecard-feed": {
+      "hash": "66b5e9d23f40cfe875b66dd8a0707fe562f58e9bc04ffe799d5ef991cfec5aed",
+      "title": "Archiving a Scorecard Feed",
+      "url": "https://support.clearimpact.com/en/archiving-a-scorecard-feed",
+      "product": "compyle",
+      "category": "Scorecard Feeds",
+      "path": "compyle\\archiving-a-scorecard-feed.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylearchivingascorecardf-kktggpfwe04j"
+    },
+    "compyle-archiving-and-restoring-records": {
+      "hash": "101f46614aab9f6f563012a16f6910e888244673cb95721ea8f32020e58837ee",
+      "title": "Archiving and Restoring Records",
+      "url": "https://support.clearimpact.com/en/archiving-and-restoring-records",
+      "product": "compyle",
+      "category": "Administration",
+      "path": "compyle\\archiving-and-restoring-records.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylearchivingandrestorin-fxzoush473uy"
+    },
+    "compyle-automatic-participant-setup-1": {
+      "hash": "cc58104d36738bd65b0b7f547c49e9fe865abd42dc5e7845b3b53b1f1c2831c4",
+      "title": "Automatic Participant Setup",
+      "url": "https://support.clearimpact.com/en/automatic-participant-setup-1",
+      "product": "compyle",
+      "category": "Participants, Households, and Organizations",
+      "path": "compyle\\automatic-participant-setup-1.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleautomaticparticipant-d9ts29i214d8"
+    },
+    "compyle-clear-impact-control": {
+      "hash": "6c47334afd468fa041f5a8019200c854113fd0c60154b55296c6a6bab6443407",
+      "title": "Clear Impact Control",
+      "url": "https://support.clearimpact.com/en/clear-impact-control",
+      "product": "compyle",
+      "category": "Administration",
+      "path": "compyle\\clear-impact-control.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleclearimpactcontrol-klinjw9paxb1"
+    },
+    "compyle-com": {
+      "hash": "395e1b6667806c0e49724fb647d7e3c224297240710a828af5d7cba432905931",
+      "title": "Compyle Release Notes - Winter 2021-2022",
+      "url": "https://support.clearimpact.com/en/com",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\com.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecom-pugc67g4sxje"
+    },
+    "compyle-common-compyle-questions": {
+      "hash": "dcef1ed97629b580560e7c0c15adc3cd98c674d37aacfb12cfc7ebd75c837be5",
+      "title": "Common Compyle Questions",
+      "url": "https://support.clearimpact.com/en/common-compyle-questions",
+      "product": "compyle",
+      "category": "FAQ (Compyle)",
+      "path": "compyle\\common-compyle-questions.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecommoncompylequestio-h7430kcpl76d"
+    },
+    "compyle-compylation-list-1": {
+      "hash": "2d371767398f44fe9b13698e28afdf57803ae1a6c87a2852dcf307d7705907c4",
+      "title": "Compylations List",
+      "url": "https://support.clearimpact.com/en/compylation-list-1",
+      "product": "compyle",
+      "category": "Analytics",
+      "path": "compyle\\compylation-list-1.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylationlist1-vxaah1ysfu9e"
+    },
+    "compyle-compyle-1": {
+      "hash": "22a26cdda56221e585c177955771d2e53d6e55378e506682d27156804aa97b69",
+      "title": "Compyle: Release Notes - November 2024",
+      "url": "https://support.clearimpact.com/en/compyle-1",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-1.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompyle1-qn8pg2to6ixm"
+    },
+    "compyle-compyle-analytics-upgrade-video-sept.-2022": {
+      "hash": "7de64fa64081e96954673790fe1a4327e3e7200032ac47ef6978ae2d68c74d6f",
+      "title": "Analytics, Compylations, & Scorecard Feeds: Upgrade Webinar - Sept. 2022",
+      "url": "https://support.clearimpact.com/en/compyle-analytics-upgrade-video-sept.-2022",
+      "product": "compyle",
+      "category": "Upgrade Webinars",
+      "path": "compyle\\compyle-analytics-upgrade-video-sept.-2022.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompyleanalyticsupgr-xp0my69bovrb"
+    },
+    "compyle-compyle-august-alterations-upgrade-2024": {
+      "hash": "e2bca14d8117e89f0f99d92c01cc524505ea07c135f36e988dfebe61bf5febea",
+      "title": "Compyle August 2024 Upgrade Training Webinar",
+      "url": "https://support.clearimpact.com/en/compyle-august-alterations-upgrade-2024",
+      "product": "compyle",
+      "category": "Upgrade Webinars",
+      "path": "compyle\\compyle-august-alterations-upgrade-2024.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompyleaugustalterat-pn864v1psyc7"
+    },
+    "compyle-compyle-compylation-reports-release-feb.-2026": {
+      "hash": "26730e6c4e630922f17fc908c8a55fa91a79e7a65b10f5b5df0e3094bd73c1cb",
+      "title": "Compyle Compylation Reports Release - Feb. 2026",
+      "url": "https://support.clearimpact.com/en/compyle-compylation-reports-release-feb.-2026",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-compylation-reports-release-feb.-2026.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylecompylationre-v4m1kquebcyz"
+    },
+    "compyle-compyle-design-implementing-a-new-data-collection-process": {
+      "hash": "2dbdedb4f73b2085f66fad990552eb0f446414878fbc5fd9291b602b9fb06e4b",
+      "title": "Compyle Design: Implementing a New Data Collection Process",
+      "url": "https://support.clearimpact.com/en/compyle-design-implementing-a-new-data-collection-process",
+      "product": "compyle",
+      "category": "Administration - Forms and Fields",
+      "path": "compyle\\compyle-design-implementing-a-new-data-collection-process.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompyledesignimpleme-u9i3q5r6sd9e"
+    },
+    "compyle-compyle-downloads-and-exports": {
+      "hash": "d5904733bab0d7b47a212ce2e2921827b8c3f2bbd527830eb5a169b2bb09d084",
+      "title": "Accessing Compyle Downloads and Exports",
+      "url": "https://support.clearimpact.com/en/compyle-downloads-and-exports",
+      "product": "compyle",
+      "category": "FAQ (Compyle)",
+      "path": "compyle\\compyle-downloads-and-exports.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompyledownloadsande-4yrh6oftu1mf"
+    },
+    "compyle-compyle-duplicate-check-upgrade-webinar": {
+      "hash": "b8eb1d7bbea914493ce000f712348703a87a5e174212844adac727aeb6240681",
+      "title": "Duplicate Check & Merge Duplicates: Upgrade Webinar - May 2023",
+      "url": "https://support.clearimpact.com/en/compyle-duplicate-check-upgrade-webinar",
+      "product": "compyle",
+      "category": "Upgrade Webinars",
+      "path": "compyle\\compyle-duplicate-check-upgrade-webinar.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompyleduplicatechec-dcwum9i0kxm9"
+    },
+    "compyle-compyle-export-filters-more-release-february-2025": {
+      "hash": "1c73d921cf42fa8e616b3f93ae57fb2001a00695e8bb4eb530f79d00b018c11a",
+      "title": "Compyle Export Filters & More Release - February 2025",
+      "url": "https://support.clearimpact.com/en/compyle-export-filters-more-release-february-2025",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-export-filters-more-release-february-2025.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompyleexportfilters-xhco4tqff1dg"
+    },
+    "compyle-compyle-export-filters-release-webinar-video-february-2025": {
+      "hash": "9810b451042c541f337ac81180a3730e480ec3b23143fc8fbf39f17d0e334dca",
+      "title": "Compyle Export Filters Release Webinar Video- February 2025",
+      "url": "https://support.clearimpact.com/en/compyle-export-filters-release-webinar-video-february-2025",
+      "product": "compyle",
+      "category": "Upgrade Webinars",
+      "path": "compyle\\compyle-export-filters-release-webinar-video-february-2025.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompyleexportfilters-pv61ar5rdg94"
+    },
+    "compyle-compyle-fall-finesse-upgrade-oct.-2025": {
+      "hash": "9d03761dc3701802d127d4e1c6a8ea2a46fbbb09db359555255707f4512c0352",
+      "title": "Compyle Fall Finesse Upgrade - Oct. 2025",
+      "url": "https://support.clearimpact.com/en/compyle-fall-finesse-upgrade-oct.-2025",
+      "product": "compyle",
+      "category": "Upgrade Webinars",
+      "path": "compyle\\compyle-fall-finesse-upgrade-oct.-2025.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylefallfinesseup-c2wb5ghnmkz3"
+    },
+    "compyle-compyle-form-logic-upgrade-webinar-feb.-2024": {
+      "hash": "00302af96e68cf079f1509e936ea267d2a458dad788e6bbac7512f4a5f3301f9",
+      "title": "Compyle Form Logic Upgrade Webinar - Feb. 2024",
+      "url": "https://support.clearimpact.com/en/compyle-form-logic-upgrade-webinar-feb.-2024",
+      "product": "compyle",
+      "category": "Upgrade Webinars",
+      "path": "compyle\\compyle-form-logic-upgrade-webinar-feb.-2024.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompyleformlogicupgr-5h6o0roauunh"
+    },
+    "compyle-compyle-form-sections-upgrade-webinar": {
+      "hash": "14584732707b8f178b9096aab6064b780a38d6093a88f7ced1db7cd2dd775f19",
+      "title": "Compyle Form Sections: Upgrade Webinar - Nov. 2023",
+      "url": "https://support.clearimpact.com/en/compyle-form-sections-upgrade-webinar",
+      "product": "compyle",
+      "category": "Upgrade Webinars",
+      "path": "compyle\\compyle-form-sections-upgrade-webinar.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompyleformsectionsu-9d62z8gip945"
+    },
+    "compyle-compyle-hotfix-release-february-2025": {
+      "hash": "0c70eb7bc91d194e7522682b534e40c493f0369036ab38743f75ab90a2685f29",
+      "title": "Compyle Hotfix Releases February 2025",
+      "url": "https://support.clearimpact.com/en/compyle-hotfix-release-february-2025",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-hotfix-release-february-2025.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylehotfixrelease-q7b11eia4hzu"
+    },
+    "compyle-compyle-hotfix-release-notes-february-2026": {
+      "hash": "f303949772c7a5f0196ebf19655d5bcf77b6d55b2c005af28bf64e48d5b04018",
+      "title": "Compyle Hotfix Release Notes - February 2026",
+      "url": "https://support.clearimpact.com/en/compyle-hotfix-release-notes-february-2026",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-hotfix-release-notes-february-2026.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylehotfixrelease-lo1bfev4w2un"
+    },
+    "compyle-compyle-hotfix-release-notes-july-2025": {
+      "hash": "5a2da48ada069b4e198f8972dae95bc2449d5313d3b6a907e2d5c59e4bd1fa03",
+      "title": "Compyle Hotfix Release Notes July 2025",
+      "url": "https://support.clearimpact.com/en/compyle-hotfix-release-notes-july-2025",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-hotfix-release-notes-july-2025.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylehotfixrelease-rjlk8y2n9fbe"
+    },
+    "compyle-compyle-hotfix-release-notes": {
+      "hash": "c19dd733efc21d390cf1151e74c703371311fb55f9fbf53d94cc81f2c2e8b9a0",
+      "title": "Compyle Hotfix Release Notes Sept. 2022",
+      "url": "https://support.clearimpact.com/en/compyle-hotfix-release-notes",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-hotfix-release-notes.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylehotfixrelease-7vbsts18qf7v"
+    },
+    "compyle-compyle-households-and-household-linking-upgrade-webinar-april-2025": {
+      "hash": "8e13b4d6d2a1c51a6e6554be54d5529c88ae640c053e0f9f477029680c70bac2",
+      "title": "Compyle Households and Household Linking Upgrade Webinar April 2025",
+      "url": "https://support.clearimpact.com/en/compyle-households-and-household-linking-upgrade-webinar-april-2025",
+      "product": "compyle",
+      "category": "Upgrade Webinars",
+      "path": "compyle\\compyle-households-and-household-linking-upgrade-webinar-april-2025.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylehouseholdsand-d64ut8rga91w"
+    },
+    "compyle-compyle-implementation-field-types": {
+      "hash": "588a024efe4c4798f2fb28c402ba79f17d0bc2870f9813e531c5f4b2a642d34e",
+      "title": "Compyle Field Types",
+      "url": "https://support.clearimpact.com/en/compyle-implementation-field-types",
+      "product": "compyle",
+      "category": "Administration - Forms and Fields",
+      "path": "compyle\\compyle-implementation-field-types.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompyleimplementatio-cogk8928y6tf"
+    },
+    "compyle-compyle-implementation-suggestions": {
+      "hash": "16c9b96e1d66c9afaf6f47de313e372c5b1a5fbb9fc9c4f19d1c7f00623e9013",
+      "title": "Organizing Information in Compyle",
+      "url": "https://support.clearimpact.com/en/compyle-implementation-suggestions",
+      "product": "compyle",
+      "category": "Administration - Forms and Fields",
+      "path": "compyle\\compyle-implementation-suggestions.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompyleimplementatio-gyloelqlv4nk"
+    },
+    "compyle-compyle-import-households-and-participant-household-links-june-2025-video": {
+      "hash": "17ee352261bd28784de80c6ba80c12d3dac58614f9b4e8cfa938165b10316f31",
+      "title": "Compyle Import Households and Participant-Household Links - June 2025 - Video",
+      "url": "https://support.clearimpact.com/en/compyle-import-households-and-participant-household-links-june-2025-video",
+      "product": "compyle",
+      "category": "Upgrade Webinars",
+      "path": "compyle\\compyle-import-households-and-participant-household-links-june-2025-video.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompyleimporthouseho-pw6mfdhd8qii"
+    },
+    "compyle-compyle-may-2024-release": {
+      "hash": "9b087638ed86e6a61617878e3b4e3c4e1af4b8b48cd30434120f3bc36db57dda",
+      "title": "Compyle Release Notes: Optimization & More - May 2024",
+      "url": "https://support.clearimpact.com/en/compyle-may-2024-release",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-may-2024-release.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylemay2024releas-wrcdkf4g0b4l"
+    },
+    "compyle-compyle-overview": {
+      "hash": "93bf68ef554c17059687f4b37471a89ff81546cb8b03d7d7d8aece4aff05623a",
+      "title": "Compyle Executive Summary",
+      "url": "https://support.clearimpact.com/en/compyle-overview",
+      "product": "compyle",
+      "category": "Compyle Overview",
+      "path": "compyle\\compyle-overview.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompyleoverview-ndlifm28hpk2"
+    },
+    "compyle-compyle-permissions": {
+      "hash": "fe688fda42f6cabc6efe9c873a5c0bf1dd46e1f85a2986cb6e9a643195ab79e5",
+      "title": "Compyle Permissions",
+      "url": "https://support.clearimpact.com/en/compyle-permissions",
+      "product": "compyle",
+      "category": "Administration",
+      "path": "compyle\\compyle-permissions.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylepermissions-8o0zttcp2fa7"
+    },
+    "compyle-compyle-ready-by-request-august-2025-upgrade": {
+      "hash": "47eb803d3e4208fa45b031fd6bd160021824bf5b18f4341214ef1bfff5bb8418",
+      "title": "Compyle Ready By Request - August 2025 Upgrade",
+      "url": "https://support.clearimpact.com/en/compyle-ready-by-request-august-2025-upgrade",
+      "product": "compyle",
+      "category": "Upgrade Webinars",
+      "path": "compyle\\compyle-ready-by-request-august-2025-upgrade.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylereadybyreques-79rgt8iygr4c"
+    },
+    "compyle-compyle-release-notes-2023-q1": {
+      "hash": "6786fa864a6cb87e12a889b07fede373913493ccf0827b30e9c54afa178d5c63",
+      "title": "Compyle Release Notes - February 2023",
+      "url": "https://support.clearimpact.com/en/compyle-release-notes-2023-q1",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-release-notes-2023-q1.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylereleasenotes2-5ehr6ffkw7cm"
+    },
+    "compyle-compyle-release-notes-april-2025-household-linking": {
+      "hash": "e3e06f4e2882c3c292e93275a9a8a3763da0fea47b219fbcd251700a4a3bd7e2",
+      "title": "Compyle Release Notes: Households & Household Linking - April 2025",
+      "url": "https://support.clearimpact.com/en/compyle-release-notes-april-2025-household-linking",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-release-notes-april-2025-household-linking.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylereleasenotesa-dvrowdv5slmx"
+    },
+    "compyle-compyle-release-notes-august-2023": {
+      "hash": "d108d68afc367e6803650ca89f7ab2f52210198d88b17d969f0cf7c74367a31d",
+      "title": "Compyle Release Notes - Fields, Files, and Formatting: August 2023",
+      "url": "https://support.clearimpact.com/en/compyle-release-notes-august-2023",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-release-notes-august-2023.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylereleasenotesa-wpixost890fv"
+    },
+    "compyle-compyle-release-notes-december-2024": {
+      "hash": "8d90215a87718950f75ab18eba39fa8d20187ac7a5867e461c51c00f8bf59504",
+      "title": "Compyle Release Notes - December 2024",
+      "url": "https://support.clearimpact.com/en/compyle-release-notes-december-2024",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-release-notes-december-2024.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylereleasenotesd-v1exl5lw0e1u"
+    },
+    "compyle-compyle-release-notes-fall-finesse-upgrade-september-2025": {
+      "hash": "e3548edf57ae492e974e8829562f65098b5c41af162072febd5622d2db94342d",
+      "title": "Compyle Release Notes: Fall Finesse Upgrade - Oct. 2025",
+      "url": "https://support.clearimpact.com/en/compyle-release-notes-fall-finesse-upgrade-september-2025",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-release-notes-fall-finesse-upgrade-september-2025.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylereleasenotesf-t7myekziuy6e"
+    },
+    "compyle-compyle-release-notes-form-logic-rules-survey-management-february-2024": {
+      "hash": "e3a660d5cbf5f268b7b0c062bd19cc7bcc62816d5744c38ace327712f2976eb2",
+      "title": "Compyle Release Notes: Form Logic & Form Management Layout - February 2024",
+      "url": "https://support.clearimpact.com/en/compyle-release-notes-form-logic-rules-survey-management-february-2024",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-release-notes-form-logic-rules-survey-management-february-2024.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylereleasenotesf-vyi8cl8tp9a6"
+    },
+    "compyle-compyle-release-notes-hotfix-11-may-2025": {
+      "hash": "8cc6470a24161ee72332865cc2c22a6ee9b1be6dfa1ac38468cad821f2c03c69",
+      "title": "Compyle Release Notes: Hotfix 11 May 2025",
+      "url": "https://support.clearimpact.com/en/compyle-release-notes-hotfix-11-may-2025",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-release-notes-hotfix-11-may-2025.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylereleasenotesh-ntzdv19rph0f"
+    },
+    "compyle-compyle-release-notes-hotfix-mini-release": {
+      "hash": "f11874099f3e1572108ad006b3f1167cf26ed9f250dc4fd74e3e7b1bcd8fb61d",
+      "title": "Compyle Release Notes - Hotfix Mini Release: Sept. 2023",
+      "url": "https://support.clearimpact.com/en/compyle-release-notes-hotfix-mini-release",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-release-notes-hotfix-mini-release.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylereleasenotesh-j39kdg4qsarr"
+    },
+    "compyle-compyle-release-notes-household-imports": {
+      "hash": "4073325fad253d7d8e35b6491ab3b05eccb6e80aeb7a04302158373b61db05c7",
+      "title": "Compyle Release Notes: Household Imports - June 2025",
+      "url": "https://support.clearimpact.com/en/compyle-release-notes-household-imports",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-release-notes-household-imports.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylereleasenotesh-wzi8imq1w5ad"
+    },
+    "compyle-compyle-release-notes-january-2025": {
+      "hash": "4ce63fc289f4f18a7a05b83deba4003c27f3c55d586ffd58636514824ddfcccd",
+      "title": "Compyle Release Notes - January 2025",
+      "url": "https://support.clearimpact.com/en/compyle-release-notes-january-2025",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-release-notes-january-2025.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylereleasenotesj-dut1zz6ic6ze"
+    },
+    "compyle-compyle-release-notes-permissions-precision-upgrade-december-2025": {
+      "hash": "df873ab1ceb019b57b6859e9f2f4fcb5382f6ffcce528efb9ee601c2d4745aac",
+      "title": "Compyle Release Notes: Permissions Precision Upgrade - Dec. 2025",
+      "url": "https://support.clearimpact.com/en/compyle-release-notes-permissions-precision-upgrade-december-2025",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-release-notes-permissions-precision-upgrade-december-2025.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylereleasenotesp-fj4jsuqcx0lm"
+    },
+    "compyle-compyle-release-notes-q2-2023": {
+      "hash": "4ca89a3196f037831d5c15f7a494af7439d0f3c543817ef73bf16ea61dacdd9b",
+      "title": "Compyle Release Notes - April/May 2023",
+      "url": "https://support.clearimpact.com/en/compyle-release-notes-q2-2023",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-release-notes-q2-2023.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylereleasenotesq-u1fhru3os1wn"
+    },
+    "compyle-compyle-release-notes-sections-for-survey-forms-and-note-forms-nov.-2023": {
+      "hash": "52a560c5e0e79a5d529287743bb00c9b1cac4c6f85156e1fd43ae3622be66288",
+      "title": "Compyle Release Notes - Sections for Survey Forms and Note Forms: Nov. 2023",
+      "url": "https://support.clearimpact.com/en/compyle-release-notes-sections-for-survey-forms-and-note-forms-nov.-2023",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-release-notes-sections-for-survey-forms-and-note-forms-nov.-2023.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylereleasenotess-mutd8ok8h5y0"
+    },
+    "compyle-compyle-release-notes-september-2022": {
+      "hash": "12cdc1ddaaa31e625297596e398b246b40f777885b803864c70d61b76343b5f1",
+      "title": "Compyle Release Notes - September 2022",
+      "url": "https://support.clearimpact.com/en/compyle-release-notes-september-2022",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-release-notes-september-2022.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylereleasenotess-6x1r3tmnvnmu"
+    },
+    "compyle-compyle-release-notes-summer-2022": {
+      "hash": "61a1eb5c82f4f80cfcf6a2d13a490e47bac262147481e62de392b86606b980c8",
+      "title": "Compyle Release Notes - Summer 2022",
+      "url": "https://support.clearimpact.com/en/compyle-release-notes-summer-2022",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-release-notes-summer-2022.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylereleasenotess-g07m1xigzn4g"
+    },
+    "compyle-compyle-release-notes-winter-2022": {
+      "hash": "cf8e3ce0092f79b6a694eca7459045e10be2370edaec83301865210899186f73",
+      "title": "Compyle Release Notes - Winter 2022",
+      "url": "https://support.clearimpact.com/en/compyle-release-notes-winter-2022",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-release-notes-winter-2022.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylereleasenotesw-nzkw11zsw393"
+    },
+    "compyle-compyle-release-notes": {
+      "hash": "90437476b1d8e622efdc84f74fb0b70debf34b83a7bcfe8dee16efebd1924779",
+      "title": "Compyle Release Notes: August 2024 Upgrade",
+      "url": "https://support.clearimpact.com/en/compyle-release-notes",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-release-notes.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylereleasenotes-7qzw42gn4kzc"
+    },
+    "compyle-compyle-spring-cleaning-release": {
+      "hash": "5deb5117b961fcb4f2458ccbc578b5eecfd18c709e0c8930c5473c8d9971dd57",
+      "title": "Compyle Spring Cleaning Release Notes - April 2024",
+      "url": "https://support.clearimpact.com/en/compyle-spring-cleaning-release",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\compyle-spring-cleaning-release.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylespringcleanin-iiq0s6tes79h"
+    },
+    "compyle-compyle-survey-responder-types": {
+      "hash": "dbcb21fa5502899ffb0f2f136b47a1a222a39afddeb6b9bd1a7d2b1df31fca28",
+      "title": "Responder Types for Survey Forms and Note Type Forms",
+      "url": "https://support.clearimpact.com/en/compyle-survey-responder-types",
+      "product": "compyle",
+      "category": "Data Collection",
+      "path": "compyle\\compyle-survey-responder-types.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylesurveyrespond-qaikcyuwklpk"
+    },
+    "compyle-compyle-upgrade-webinar-q1-2023": {
+      "hash": "83b16bf893b4909315430024ebcf4d80922cd850213a9de85bcbd55705196009",
+      "title": "Search & Data Management Tools: Upgrade Webinar - February 2023",
+      "url": "https://support.clearimpact.com/en/compyle-upgrade-webinar-q1-2023",
+      "product": "compyle",
+      "category": "Upgrade Webinars",
+      "path": "compyle\\compyle-upgrade-webinar-q1-2023.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompyleupgradewebina-nu1wdabsv1g2"
+    },
+    "compyle-compyle-upgrade-webinar-spring-cleaning-and-optimization-more-april-may-2024": {
+      "hash": "9963c527b8270be6f95dd96715eeb90ad9bd44d8961876c62564f7370d73390f",
+      "title": "Compyle Upgrade Webinar: April-May 2024",
+      "url": "https://support.clearimpact.com/en/compyle-upgrade-webinar-spring-cleaning-and-optimization-more-april-may-2024",
+      "product": "compyle",
+      "category": "Upgrade Webinars",
+      "path": "compyle\\compyle-upgrade-webinar-spring-cleaning-and-optimization-more-april-may-2024.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompyleupgradewebina-zw6wqcygj5ey"
+    },
+    "compyle-compyle-upgrade-webinar-winter-2021-2022": {
+      "hash": "f55c204351c619de30d5ce807edb1503bb21fcfe590506474ce34658df3f136d",
+      "title": "Data Collections, Required Fields, Signatures: Upgrade Webinar - Winter 2021-2022",
+      "url": "https://support.clearimpact.com/en/compyle-upgrade-webinar-winter-2021-2022",
+      "product": "compyle",
+      "category": "Upgrade Webinars",
+      "path": "compyle\\compyle-upgrade-webinar-winter-2021-2022.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompyleupgradewebina-isnauv6ombe3"
+    },
+    "compyle-compyle-video-series": {
+      "hash": "ff119c8729c888971158515197909ad5e08575d6f4bd1f3c157de1b5b104477a",
+      "title": "Video 1: Introduction to Compyle",
+      "url": "https://support.clearimpact.com/en/compyle-video-series",
+      "product": "compyle",
+      "category": "Compyle Overview Videos",
+      "path": "compyle\\compyle-video-series.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylevideoseries-f8niq2m644uf"
+    },
+    "compyle-compyle-wayfinding-well-being-upgrade-webinar-july-2025": {
+      "hash": "63335aa7f7061d87fcee900a6997f04682e55558c2edbefd32751c5a151c8acd",
+      "title": "Compyle Wayfinding & Well-Being Upgrade Webinar - July 2025",
+      "url": "https://support.clearimpact.com/en/compyle-wayfinding-well-being-upgrade-webinar-july-2025",
+      "product": "compyle",
+      "category": "Upgrade Webinars",
+      "path": "compyle\\compyle-wayfinding-well-being-upgrade-webinar-july-2025.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylewayfindingwel-igm23697tgll"
+    },
+    "compyle-compyle-winter-2022-upgrade-webinar": {
+      "hash": "4d90cf2007113d82e752a4a8c0943a50f356713ab0e9afd0bf101374c6f7afe0",
+      "title": "Anonymous Responses & External Referrals: Upgrade Webinar - Winter 2022",
+      "url": "https://support.clearimpact.com/en/compyle-winter-2022-upgrade-webinar",
+      "product": "compyle",
+      "category": "Upgrade Webinars",
+      "path": "compyle\\compyle-winter-2022-upgrade-webinar.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompylewinter2022upg-tcpv198t1ipk"
+    },
+    "compyle-compyle": {
+      "hash": "028bd5b30607d7142ac855689c147e0474d94aceb83681f2d687a10e97a7c76c",
+      "title": "Intro to Compyle Software",
+      "url": "https://support.clearimpact.com/en/compyle",
+      "product": "compyle",
+      "category": "Compyle Overview",
+      "path": "compyle\\compyle.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecompyle-vbkse02f3bwc"
+    },
+    "compyle-creating-a-compylation-1": {
+      "hash": "aa276ffa428e19523464b23f9aa1ca64b05774fb69b3da4aa6a22919a1edaaed",
+      "title": "Creating a Compylation",
+      "url": "https://support.clearimpact.com/en/creating-a-compylation-1",
+      "product": "compyle",
+      "category": "Analytics",
+      "path": "compyle\\creating-a-compylation-1.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecreatingacompylation-x2eivfzbw84q"
+    },
+    "compyle-creating-a-compylation-from-a-note-type-1": {
+      "hash": "8ce014aa5e30d0176b78ad8d89dd8aadcc3eb80400439f14f7dd75222a84d952",
+      "title": "Creating a Compylation from a Note Type",
+      "url": "https://support.clearimpact.com/en/creating-a-compylation-from-a-note-type-1",
+      "product": "compyle",
+      "category": "Analytics",
+      "path": "compyle\\creating-a-compylation-from-a-note-type-1.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecreatingacompylation-l6c79tl4ubx1"
+    },
+    "compyle-creating-a-data-collection": {
+      "hash": "c12d39b91c8e5415b177238ea048192a76bbef3983bb3e7f706343fd1cfa9de1",
+      "title": "Creating a Data Collection",
+      "url": "https://support.clearimpact.com/en/creating-a-data-collection",
+      "product": "compyle",
+      "category": "Data Collection",
+      "path": "compyle\\creating-a-data-collection.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecreatingadatacollect-62pt617wn65k"
+    },
+    "compyle-creating-a-participant": {
+      "hash": "b01db3604968f4b5ad2830335501ccb80224280cc608a4c46704fd67913857c2",
+      "title": "Creating a Participant",
+      "url": "https://support.clearimpact.com/en/creating-a-participant",
+      "product": "compyle",
+      "category": "Participants, Households, and Organizations",
+      "path": "compyle\\creating-a-participant.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecreatingaparticipant-mez31hurmyby"
+    },
+    "compyle-creating-a-scorecard-feed": {
+      "hash": "c04bffa22472708b4a06591f89bf25d2383b11fc5c80133eb51c0cef5c3d3ce2",
+      "title": "Creating a Compyle-to-Scorecard Feed",
+      "url": "https://support.clearimpact.com/en/creating-a-scorecard-feed",
+      "product": "compyle",
+      "category": "Scorecard Feeds",
+      "path": "compyle\\creating-a-scorecard-feed.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecreatingascorecardfe-48swhci41s7r"
+    },
+    "compyle-creating-an-organization": {
+      "hash": "933b9ed6413a855870e13caae4044c9ac67f769d774a968dbd20ad7744c8d32c",
+      "title": "Creating an Organization",
+      "url": "https://support.clearimpact.com/en/creating-an-organization",
+      "product": "compyle",
+      "category": "Participants, Households, and Organizations",
+      "path": "compyle\\creating-an-organization.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecreatinganorganizati-yb8z079l7yal"
+    },
+    "compyle-creating-one-or-more-calculations": {
+      "hash": "2273e582f44f412e24b23da6a642c93d9fc55ecce660e2e24071ac7d39adeeaf",
+      "title": "Creating One or More Calculations in a Compylation",
+      "url": "https://support.clearimpact.com/en/creating-one-or-more-calculations",
+      "product": "compyle",
+      "category": "Analytics",
+      "path": "compyle\\creating-one-or-more-calculations.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecreatingoneormorecal-1xxarr5g89mf"
+    },
+    "compyle-creating-participant-outcomes-1": {
+      "hash": "5ad1015847954e7a9a93f3da0d774243bd62894a3a5b6dd52650124c591307b6",
+      "title": "Creating Participant Outcomes",
+      "url": "https://support.clearimpact.com/en/creating-participant-outcomes-1",
+      "product": "compyle",
+      "category": "Analytics",
+      "path": "compyle\\creating-participant-outcomes-1.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecreatingparticipanto-bvxvct1t0jgg"
+    },
+    "compyle-custom-participant-and-organization-fields": {
+      "hash": "2ff56d0e5f745933f4679333cc7c73a5bcbb2c28b958743df267e7e5bb0b2da9",
+      "title": "Custom Participant, Household, Anonymous, and Organization Fields",
+      "url": "https://support.clearimpact.com/en/custom-participant-and-organization-fields",
+      "product": "compyle",
+      "category": "Administration - Forms and Fields",
+      "path": "compyle\\custom-participant-and-organization-fields.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecustomparticipantand-cxzyipsn108u"
+    },
+    "compyle-custom-user-roles": {
+      "hash": "d9739e0c323dbeefcbee4ee9c6b0e3c6abc611398297d76532df7764114a1620",
+      "title": "Custom Roles for Users",
+      "url": "https://support.clearimpact.com/en/custom-user-roles",
+      "product": "compyle",
+      "category": "Administration",
+      "path": "compyle\\custom-user-roles.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylecustomuserroles-awixmv4are90"
+    },
+    "compyle-data-collection-list": {
+      "hash": "97fbfbc72818ba8880d0c75d8ef4d4cd3feef9457bc327b33ed72a130a87fd68",
+      "title": "Data Collection List",
+      "url": "https://support.clearimpact.com/en/data-collection-list",
+      "product": "compyle",
+      "category": "Data Collection",
+      "path": "compyle\\data-collection-list.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyledatacollectionlist-s30wqhgtwqqs"
+    },
+    "compyle-data-collection": {
+      "hash": "5638071e2a36c14ce3b98567f6199a009887d6c06f9f9053817aeff096db2d20",
+      "title": "Data Collection",
+      "url": "https://support.clearimpact.com/en/data-collection",
+      "product": "compyle",
+      "category": "Compyle Overview",
+      "path": "compyle\\data-collection.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyledatacollection-k0jq7gbviszr"
+    },
+    "compyle-data-downloads": {
+      "hash": "eea10d1d621001d9bb6b48b6a45189afc01fdc9f97f288a886b8bd067ff4417b",
+      "title": "Data Downloads",
+      "url": "https://support.clearimpact.com/en/data-downloads",
+      "product": "compyle",
+      "category": "Administration",
+      "path": "compyle\\data-downloads.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyledatadownloads-094c8vqk5euw"
+    },
+    "compyle-data-migration-requests": {
+      "hash": "6ad1c339a965310b86bce86a8719371bfd865bffabe9f3436f6a503148406524",
+      "title": "Data Migration Process",
+      "url": "https://support.clearimpact.com/en/data-migration-requests",
+      "product": "compyle",
+      "category": "FAQ (Compyle)",
+      "path": "compyle\\data-migration-requests.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyledatamigrationrequest-khndx1kx5mzh"
+    },
+    "compyle-default-forms-for-new-survey-responders": {
+      "hash": "b008b7bf721ed16b915bbdadf75cd0c22b7e76575f7644d86cb46af38b29a831",
+      "title": "Default Forms for New Survey Responders",
+      "url": "https://support.clearimpact.com/en/default-forms-for-new-survey-responders",
+      "product": "compyle",
+      "category": "Data Collection",
+      "path": "compyle\\default-forms-for-new-survey-responders.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyledefaultformsfornewsu-tkxzqxlzu9q1"
+    },
+    "compyle-duplicate-check-for-participants-and-organizations": {
+      "hash": "203b18284526e31161d70a4e463521e726cc5e9194e1a220ec1435dcfacf09d5",
+      "title": "Duplicate Check for Participants, Households, and Organizations",
+      "url": "https://support.clearimpact.com/en/duplicate-check-for-participants-and-organizations",
+      "product": "compyle",
+      "category": "Administration - Forms and Fields",
+      "path": "compyle\\duplicate-check-for-participants-and-organizations.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleduplicatecheckforpar-i53aac5ygznl"
+    },
+    "compyle-editing-a-calculation-1": {
+      "hash": "7814005ce80541db6deac86d1a87041853ec29169da2c61ad08690ad96abd675",
+      "title": "Editing a Calculation",
+      "url": "https://support.clearimpact.com/en/editing-a-calculation-1",
+      "product": "compyle",
+      "category": "Analytics",
+      "path": "compyle\\editing-a-calculation-1.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleeditingacalculation1-uiifryl229l4"
+    },
+    "compyle-editing-or-deleting-a-participant-or-organization": {
+      "hash": "d2ab81efe3de6591af860e71ebc1abc7e01df79daab0ce507c7a73b805e982ea",
+      "title": "Working with Participant and Organization Records: View, Edit, Archive, Delete, Restore",
+      "url": "https://support.clearimpact.com/en/editing-or-deleting-a-participant-or-organization",
+      "product": "compyle",
+      "category": "Participants, Households, and Organizations",
+      "path": "compyle\\editing-or-deleting-a-participant-or-organization.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleeditingordeletingapa-zz0ox53xlf9y"
+    },
+    "compyle-email-templates-1": {
+      "hash": "a4303bd5d58c7df7c2ce2420f8b3acf168e45df8f5be6d086c65bd32d58f8536",
+      "title": "Email Templates",
+      "url": "https://support.clearimpact.com/en/email-templates-1",
+      "product": "compyle",
+      "category": "Administration",
+      "path": "compyle\\email-templates-1.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleemailtemplates1-og19w6azjpgf"
+    },
+    "compyle-exports-charts-and-summaries-from-compylations": {
+      "hash": "8b75077c559155e491e84d8da69fbc2c77cc3351c014854da4fed9bb5d296e7b",
+      "title": "Exporting Charts and Summaries from Compylations",
+      "url": "https://support.clearimpact.com/en/exports-charts-and-summaries-from-compylations",
+      "product": "compyle",
+      "category": "FAQ (Compyle)",
+      "path": "compyle\\exports-charts-and-summaries-from-compylations.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleexportschartsandsumm-y003nfn7fj13"
+    },
+    "compyle-external-referrals": {
+      "hash": "02672285719cdbbfd524a9dcbaa84ed5ddb2843f3784333571d88f2315a99bd8",
+      "title": "Receiving External Referrals",
+      "url": "https://support.clearimpact.com/en/external-referrals",
+      "product": "compyle",
+      "category": "Data Collection",
+      "path": "compyle\\external-referrals.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleexternalreferrals-crln9g7ypjmq"
+    },
+    "compyle-feeding-data-to-scorecard": {
+      "hash": "a8a74588edc5b95c6cbee094c03187c7788472e41929733166270dfe24df9a8c",
+      "title": "Feeding Data to Scorecard: Scheduling Data Transfers for Compyle-to-Scorecard Feeds",
+      "url": "https://support.clearimpact.com/en/feeding-data-to-scorecard",
+      "product": "compyle",
+      "category": "Scorecard Feeds",
+      "path": "compyle\\feeding-data-to-scorecard.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylefeedingdatatoscoreca-o9l4xee3n2o8"
+    },
+    "compyle-files-fields-and-formatting-upgrade-webinar-august-2023": {
+      "hash": "d96456e8edea74c4df39b0e042f565f5eb226b7d4f7c1708e3cceeca579c01f5",
+      "title": "Fields, Files, & Formatting: Upgrade Webinar - Aug. 2023",
+      "url": "https://support.clearimpact.com/en/files-fields-and-formatting-upgrade-webinar-august-2023",
+      "product": "compyle",
+      "category": "Upgrade Webinars",
+      "path": "compyle\\files-fields-and-formatting-upgrade-webinar-august-2023.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylefilesfieldsandformat-py8uv0c2qazi"
+    },
+    "compyle-filtering-calculation-results": {
+      "hash": "10cff01489a31da6de60e60a25a707ccc3942c5bcd1ffe129bf57c1aae1eac3a",
+      "title": "Filtering Calculation Results",
+      "url": "https://support.clearimpact.com/en/filtering-calculation-results",
+      "product": "compyle",
+      "category": "Analytics",
+      "path": "compyle\\filtering-calculation-results.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylefilteringcalculation-64ohtklqw17l"
+    },
+    "compyle-filtering-the-participants-or-organizations-list": {
+      "hash": "e33a02cc23609b638f68865ca353a0bb6b22ab72357e59241a4814ca4733cd0a",
+      "title": "Filtering the Participants or Organizations List",
+      "url": "https://support.clearimpact.com/en/filtering-the-participants-or-organizations-list",
+      "product": "compyle",
+      "category": "Participants, Households, and Organizations",
+      "path": "compyle\\filtering-the-participants-or-organizations-list.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylefilteringtheparticip-5sjaoco7dshd"
+    },
+    "compyle-form-dos-and-donts": {
+      "hash": "b613822b756c751774a23206e4fbca5a2c8c05701103b2a64540b954d4aa4ab4",
+      "title": "Form Do's and Don'ts",
+      "url": "https://support.clearimpact.com/en/form-dos-and-donts",
+      "product": "compyle",
+      "category": "Administration - Forms and Fields",
+      "path": "compyle\\form-dos-and-donts.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleformdosanddonts-nvj00o9eaulf"
+    },
+    "compyle-form-logic-rules-conditional-logic-for-survey-forms-and-note-forms": {
+      "hash": "4ee7c94e36f155f36ed0ef5cb260b018ce33816959fd3357984ff49b3c499497",
+      "title": "Form Logic Rules: Conditional Logic for Survey Forms and Note Forms",
+      "url": "https://support.clearimpact.com/en/form-logic-rules-conditional-logic-for-survey-forms-and-note-forms",
+      "product": "compyle",
+      "category": "Administration - Forms and Fields",
+      "path": "compyle\\form-logic-rules-conditional-logic-for-survey-forms-and-note-forms.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleformlogicrulescondit-n10gytymjbcn"
+    },
+    "compyle-form-logic-tips-tricks": {
+      "hash": "7fd0762349d5272b153a7d19ffeb431a9682a2f853ea54d787c35192f208f7d8",
+      "title": "Form Logic: Tips & Tricks",
+      "url": "https://support.clearimpact.com/en/form-logic-tips-tricks",
+      "product": "compyle",
+      "category": "Administration - Forms and Fields",
+      "path": "compyle\\form-logic-tips-tricks.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleformlogictipstricks-ahozdyfa4wqc"
+    },
+    "compyle-form-logic-troubleshooting": {
+      "hash": "aaa583ef9865383c27d8c880c98259598cd80e8f9adb64ab07f8811aa1f1e13d",
+      "title": "Form Logic: Troubleshooting",
+      "url": "https://support.clearimpact.com/en/form-logic-troubleshooting",
+      "product": "compyle",
+      "category": "Administration - Forms and Fields",
+      "path": "compyle\\form-logic-troubleshooting.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleformlogictroubleshoo-8a7x2ptfg5m2"
+    },
+    "compyle-form-message": {
+      "hash": "8c874782c7472189f50711cfc1432f032c95b683a515d7f638bdcac6ad9d991c",
+      "title": "Alert Templates",
+      "url": "https://support.clearimpact.com/en/form-message",
+      "product": "compyle",
+      "category": "Administration",
+      "path": "compyle\\form-message.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleformmessage-wx3tri6iwtqj"
+    },
+    "compyle-free-tier-compyle-sites": {
+      "hash": "3b463e1fef72e604d0373174afde967174bb9ec8f14e9b5cb57b3315d1e36cf4",
+      "title": "Free Tier Compyle Sites",
+      "url": "https://support.clearimpact.com/en/free-tier-compyle-sites",
+      "product": "compyle",
+      "category": "FAQ (Compyle)",
+      "path": "compyle\\free-tier-compyle-sites.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylefreetiercompylesites-9ndzcoagaf50"
+    },
+    "compyle-groups-and-restricted-access": {
+      "hash": "c2fab7ae4a34ccaa07cc147bc55c69d388dd266823303e1a742f2cd6b9a95934",
+      "title": "Restricting Access with Groups",
+      "url": "https://support.clearimpact.com/en/groups-and-restricted-access",
+      "product": "compyle",
+      "category": "Administration",
+      "path": "compyle\\groups-and-restricted-access.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylegroupsandrestricteda-or09abgd58l2"
+    },
+    "compyle-households-creating-editing-and-updating-participant-household-relationships": {
+      "hash": "855cba95783b096466a4b33ceb89df9152fa24ef2becb8cec262b90b2dd2f4b7",
+      "title": "Households: Creating, Editing, and Updating Participant-Household Relationships",
+      "url": "https://support.clearimpact.com/en/households-creating-editing-and-updating-participant-household-relationships",
+      "product": "compyle",
+      "category": "Participants, Households, and Organizations",
+      "path": "compyle\\households-creating-editing-and-updating-participant-household-relationships.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylehouseholdscreatinged-801c4e3r6heg"
+    },
+    "compyle-households-linking-participants-together": {
+      "hash": "81e4f215c9b4755472fd01131bf1372561bfb97dd67e417633fdbce383abe2fa",
+      "title": "Households: Language & Link Rules",
+      "url": "https://support.clearimpact.com/en/households-linking-participants-together",
+      "product": "compyle",
+      "category": "Participants, Households, and Organizations",
+      "path": "compyle\\households-linking-participants-together.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylehouseholdslinkingpar-dvaj5xnvb7yj"
+    },
+    "compyle-households-participants-and-permissions": {
+      "hash": "c45dda74683b81c1fb3ed847b94c9fdf39e50bac946a3a2f06c1b575f6b9cfa2",
+      "title": "Households, Participants, and Permissions",
+      "url": "https://support.clearimpact.com/en/households-participants-and-permissions",
+      "product": "compyle",
+      "category": "Administration",
+      "path": "compyle\\households-participants-and-permissions.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylehouseholdsparticipan-onjr5y54ai9r"
+    },
+    "compyle-how-to-find-a-survey-form": {
+      "hash": "f50abb076e76f05db04116c76cb342c6e2baa52297ee786c275bccbffe72e998",
+      "title": "Searching for a Survey Form by Name",
+      "url": "https://support.clearimpact.com/en/how-to-find-a-survey-form",
+      "product": "compyle",
+      "category": "Data Collection",
+      "path": "compyle\\how-to-find-a-survey-form.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylehowtofindasurveyform-yrv8k8b4khg9"
+    },
+    "compyle-importing-participants-and-organizations": {
+      "hash": "0617d9c600f78a5e97a5bebea1b03b6782e3669c83ae758ab66b66e6da78b850",
+      "title": "Importing Participants, Households, and Organizations",
+      "url": "https://support.clearimpact.com/en/importing-participants-and-organizations",
+      "product": "compyle",
+      "category": "Participants, Households, and Organizations",
+      "path": "compyle\\importing-participants-and-organizations.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleimportingparticipant-xasdp8pgutv5"
+    },
+    "compyle-importing-records-are-there-limits-guidelines": {
+      "hash": "d643eb841adb247c7320ed5f382a91cca308972e3e9d408dac9fd6a71aadc611",
+      "title": "Common Import Questions - Importing New Participants and Households",
+      "url": "https://support.clearimpact.com/en/importing-records-are-there-limits-guidelines",
+      "product": "compyle",
+      "category": "FAQ (Compyle)",
+      "path": "compyle\\importing-records-are-there-limits-guidelines.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleimportingrecordsaret-63u35melbegr"
+    },
+    "compyle-instance-settings-1": {
+      "hash": "e83e7696c60e6aefb36f00c19d442806775a2f82bdf62c59a0ed4f27133ca43c",
+      "title": "Compyle Site Instance Settings",
+      "url": "https://support.clearimpact.com/en/instance-settings-1",
+      "product": "compyle",
+      "category": "Administration",
+      "path": "compyle\\instance-settings-1.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleinstancesettings1-dx7kw0mghuxj"
+    },
+    "compyle-making-referrals-referring-participants-through-thecompyle-to-compyle-referral-network": {
+      "hash": "9964210d6ade80e695c9939a3288faf839bd5d3f6093c390239914c8784ef783",
+      "title": "Making Referrals: Referring Participants Through the Compyle-to-Compyle Referral Network",
+      "url": "https://support.clearimpact.com/en/making-referrals-referring-participants-through-thecompyle-to-compyle-referral-network",
+      "product": "compyle",
+      "category": "Referral Network (Compyle-to-Compyle Referrals)",
+      "path": "compyle\\making-referrals-referring-participants-through-thecompyle-to-compyle-referral-network.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylemakingreferralsrefer-b83bppf69skh"
+    },
+    "compyle-manage-and-merge-duplicates": {
+      "hash": "44a3552d1e7319711a62fd3dda077652b242c9993c66400ce6392a54c8c007a5",
+      "title": "Manage and Merge Duplicates",
+      "url": "https://support.clearimpact.com/en/manage-and-merge-duplicates",
+      "product": "compyle",
+      "category": "Administration",
+      "path": "compyle\\manage-and-merge-duplicates.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylemanageandmergeduplic-ifey4f0x7yi9"
+    },
+    "compyle-manage-entity-fields": {
+      "hash": "5ac855154425a4062d7be7e62516ab4ed5bdc90983be698a3477ac497d73739e",
+      "title": "Manage Entity Fields / Edit Entity Profile Forms",
+      "url": "https://support.clearimpact.com/en/manage-entity-fields",
+      "product": "compyle",
+      "category": "Administration - Forms and Fields",
+      "path": "compyle\\manage-entity-fields.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylemanageentityfields-8aitgixhog8j"
+    },
+    "compyle-manage-roles-1": {
+      "hash": "d376e6bb9c58316eb66bef4f293fa49ceb131ee51126e6807fe787e5b804d8ff",
+      "title": "Manage Roles",
+      "url": "https://support.clearimpact.com/en/manage-roles-1",
+      "product": "compyle",
+      "category": "Administration",
+      "path": "compyle\\manage-roles-1.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylemanageroles1-3krwvq5gsxk3"
+    },
+    "compyle-manage-users-1": {
+      "hash": "b5cf840296d1d7f79c3256df5c52e4147aa1b882fe51fcc60d2c1f0f3b6d76e4",
+      "title": "Manage Users",
+      "url": "https://support.clearimpact.com/en/manage-users-1",
+      "product": "compyle",
+      "category": "Administration",
+      "path": "compyle\\manage-users-1.md",
+      "doc_name": null
+    },
+    "compyle-moving-from-service-delivery-to-software": {
+      "hash": "6160cd8a0d2ccf47097cd7f1c80e111542504b5b8095093343ca27bf18c43f04",
+      "title": "Program Process Analysis: Getting to Know a Program Before Building Forms for It",
+      "url": "https://support.clearimpact.com/en/moving-from-service-delivery-to-software",
+      "product": "compyle",
+      "category": "Administration - Forms and Fields",
+      "path": "compyle\\moving-from-service-delivery-to-software.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylemovingfromservicedel-jbawh9qezv5h"
+    },
+    "compyle-my-downloads": {
+      "hash": "bd024d3503524614026601991655c786c1479bd24f8d96c25d0cb51c26ab9398",
+      "title": "My Downloads",
+      "url": "https://support.clearimpact.com/en/my-downloads",
+      "product": "compyle",
+      "category": "Data Collection",
+      "path": "compyle\\my-downloads.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylemydownloads-5n93k6zpt2hv"
+    },
+    "compyle-note-types-1": {
+      "hash": "0576243f41f1e8b6290b55af0523422239e060d43a0bd622f1cf20cb2e1dc073",
+      "title": "Note Type Forms & Standard Notes",
+      "url": "https://support.clearimpact.com/en/note-types-1",
+      "product": "compyle",
+      "category": "Administration - Forms and Fields",
+      "path": "compyle\\note-types-1.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylenotetypes1-y9q3mxvfhim8"
+    },
+    "compyle-organizations": {
+      "hash": "1894004823b921636923ebf0b21f85aaf0a452136d21473d776a3a92a7b71ed4",
+      "title": "Organizations",
+      "url": "https://support.clearimpact.com/en/organizations",
+      "product": "compyle",
+      "category": "Compyle Overview",
+      "path": "compyle\\organizations.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleorganizations-h719u9204qdn"
+    },
+    "compyle-participant-and-organization-groups": {
+      "hash": "673aa3532a46ded37f0a6f5a760a52f84f46a2653e7d69ff6b3823434bf615f4",
+      "title": "Participant and Organization Groups",
+      "url": "https://support.clearimpact.com/en/participant-and-organization-groups",
+      "product": "compyle",
+      "category": "Participants, Households, and Organizations",
+      "path": "compyle\\participant-and-organization-groups.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleparticipantandorgani-6a83p1sb1me0"
+    },
+    "compyle-participant-and-organization-lists": {
+      "hash": "c084c96c7b00c03c93917e3f9bc0eb2ea7ea547230a59826322e25e95f924b3c",
+      "title": "Search for: Participants, Households, Organizations, and Anonymous Responders",
+      "url": "https://support.clearimpact.com/en/participant-and-organization-lists",
+      "product": "compyle",
+      "category": "Participants, Households, and Organizations",
+      "path": "compyle\\participant-and-organization-lists.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleparticipantandorgani-qbmj2fjkn4wm"
+    },
+    "compyle-participant-instructions": {
+      "hash": "096783c9054eb5b5b8840c0061ef651618a44fe6d01745847c5c68fb12d178ac",
+      "title": "(Prior to June 2022) Participant Instructions",
+      "url": "https://support.clearimpact.com/en/participant-instructions",
+      "product": "compyle",
+      "category": "Data Collection",
+      "path": "compyle\\participant-instructions.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleparticipantinstructi-fdqbf8bolbwt"
+    },
+    "compyle-participants-2": {
+      "hash": "05d0a9d9a7ed8845c13aaff958699242f61dfb87e924a76d0d7e4f7067fba74d",
+      "title": "Participants",
+      "url": "https://support.clearimpact.com/en/participants-2",
+      "product": "compyle",
+      "category": "Compyle Overview",
+      "path": "compyle\\participants-2.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleparticipants2-0w0gejh1d1py"
+    },
+    "compyle-participants": {
+      "hash": "0d421460985ac73b5195477960b9c46830b63e189386eb18f7489511493e0791",
+      "title": "Video 2: Participants and Organizations",
+      "url": "https://support.clearimpact.com/en/participants",
+      "product": "compyle",
+      "category": "Compyle Overview Videos",
+      "path": "compyle\\participants.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleparticipants-bbz9rt46t3uc"
+    },
+    "compyle-printing-compyle-forms-and-records": {
+      "hash": "d1fddeeb471c9084801b4ca38a78ae569a412783ad558089e5dff6ddf46d33c7",
+      "title": "Printing Compyle Forms and Records",
+      "url": "https://support.clearimpact.com/en/printing-compyle-forms-and-records",
+      "product": "compyle",
+      "category": "FAQ (Compyle)",
+      "path": "compyle\\printing-compyle-forms-and-records.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleprintingcompyleforms-n6shfxdohwsm"
+    },
+    "compyle-public-forms-1": {
+      "hash": "42e52273025afdeece6493fafdb5adce90987175bcb377e0366fd6312c113a20",
+      "title": "Public Forms: Custom Participant, Household, Organization, & Anonymous Intake Forms",
+      "url": "https://support.clearimpact.com/en/public-forms-1",
+      "product": "compyle",
+      "category": "Administration - Forms and Fields",
+      "path": "compyle\\public-forms-1.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylepublicforms1-kh1htww9u12t"
+    },
+    "compyle-ready-by-request-compyles-august-2025-upgrade": {
+      "hash": "963a1a32749f8cf6e1f2ca65bc5d328b161084a3744d7fb3503698873625d298",
+      "title": "Compyle Release Notes: Ready By Request Upgrade - August 2025",
+      "url": "https://support.clearimpact.com/en/ready-by-request-compyles-august-2025-upgrade",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\ready-by-request-compyles-august-2025-upgrade.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylereadybyrequestcompyl-39nzbmrumuxr"
+    },
+    "compyle-recaptcha-verifying": {
+      "hash": "25acf71336cf2e26a1669e05f1413a8cbb70fb746fe9127f02fb451df70bfb2b",
+      "title": "Recaptcha - Verifying New Participants, Anonymous Responders, and Organizations",
+      "url": "https://support.clearimpact.com/en/recaptcha-verifying",
+      "product": "compyle",
+      "category": "FAQ (Compyle)",
+      "path": "compyle\\recaptcha-verifying.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylerecaptchaverifying-5iytquu9hobm"
+    },
+    "compyle-referral-network-and-referral-reports": {
+      "hash": "2f1f798da3713fe7ace721c43bd2cd1b16d9845a4e928245605c21f1c5ca503d",
+      "title": "Managing the Referral Network: Compyle-to-Compyle Referrals",
+      "url": "https://support.clearimpact.com/en/referral-network-and-referral-reports",
+      "product": "compyle",
+      "category": "Referral Network (Compyle-to-Compyle Referrals)",
+      "path": "compyle\\referral-network-and-referral-reports.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylereferralnetworkandre-xknaz0kbi1kv"
+    },
+    "compyle-release-notescompyle-control-integration-spring-2022": {
+      "hash": "5ea65575cfed273ad2347ae763e38379820f760539142440044abbb7a38a7eae",
+      "title": "Compyle Release Notes - Spring 2022",
+      "url": "https://support.clearimpact.com/en/release-notescompyle-control-integration-spring-2022",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\release-notescompyle-control-integration-spring-2022.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylereleasenotescompylec-tnwdneu0arwb"
+    },
+    "compyle-releasejuly2025": {
+      "hash": "a825101a2e4045df3d7ceb877529f8aa578a850b9d188696784f3ea4553277ad",
+      "title": "Compyle Release Notes: Wayfinding & Well-Being Upgrade - July 2025",
+      "url": "https://support.clearimpact.com/en/releasejuly2025",
+      "product": "compyle",
+      "category": "Compyle Release Notes",
+      "path": "compyle\\releasejuly2025.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylereleasejuly2025-qytrax69qrv0"
+    },
+    "compyle-scorecard-feeds-list": {
+      "hash": "0e21dfade256d51e756c1d138611c9ac6d5423ee92aa73816e665d2a2af40dfd",
+      "title": "Scorecard Feeds List",
+      "url": "https://support.clearimpact.com/en/scorecard-feeds-list",
+      "product": "compyle",
+      "category": "Scorecard Feeds",
+      "path": "compyle\\scorecard-feeds-list.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylescorecardfeedslist-5rowuunmec01"
+    },
+    "compyle-scorecard-measures-with-scorecard-feeds": {
+      "hash": "a180b806bf9b509a83901d4bf016b97d2b7ee93203321b76ee6c22c0bab242c4",
+      "title": "Scorecard Measures with Scorecard Feeds",
+      "url": "https://support.clearimpact.com/en/scorecard-measures-with-scorecard-feeds",
+      "product": "compyle",
+      "category": "Scorecard Feeds",
+      "path": "compyle\\scorecard-measures-with-scorecard-feeds.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylescorecardmeasureswit-91dmk41y97wu"
+    },
+    "compyle-security-certifications": {
+      "hash": "e14b6eb10e030dc5e974c7cf60df5806378242a754fcc0af052653758aa83861",
+      "title": "Privacy Regulations & Security Certifications",
+      "url": "https://support.clearimpact.com/en/security-certifications",
+      "product": "compyle",
+      "category": "FAQ (Compyle)",
+      "path": "compyle\\security-certifications.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylesecuritycertificatio-hxnp4gd7ingf"
+    },
+    "compyle-segmenting-calculation-results": {
+      "hash": "1fd37f03fac66742b95bfc7bcef97a74828d1c8ce5cef40d2e881b44974f6356",
+      "title": "Segmenting Calculation Results",
+      "url": "https://support.clearimpact.com/en/segmenting-calculation-results",
+      "product": "compyle",
+      "category": "Analytics",
+      "path": "compyle\\segmenting-calculation-results.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylesegmentingcalculatio-jwtlubnekain"
+    },
+    "compyle-sending-out-surveys": {
+      "hash": "e9d767b63d8e83886676710164eb59d614fdaa500931a04117abc17d99810463",
+      "title": "Sending Out Surveys",
+      "url": "https://support.clearimpact.com/en/sending-out-surveys",
+      "product": "compyle",
+      "category": "FAQ (Compyle)",
+      "path": "compyle\\sending-out-surveys.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylesendingoutsurveys-1hrdc4qv3t21"
+    },
+    "compyle-setting-up-calculations-for-scorecard-feeds": {
+      "hash": "ed5bdea14f01e7b65b34f6d0a27c6ae2ab159115816e48ee9722a05bc85ce234",
+      "title": "Setting up Calculations for Scorecard Feeds",
+      "url": "https://support.clearimpact.com/en/setting-up-calculations-for-scorecard-feeds",
+      "product": "compyle",
+      "category": "Scorecard Feeds",
+      "path": "compyle\\setting-up-calculations-for-scorecard-feeds.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylesettingupcalculation-4q236ppcm6a6"
+    },
+    "compyle-setting-up-household-data-collection": {
+      "hash": "0a553d159b69e5b95f00e2fc8dcf525b28a808d3b5a243d242b309c7e4087621",
+      "title": "How to Implement Households in Compyle",
+      "url": "https://support.clearimpact.com/en/setting-up-household-data-collection",
+      "product": "compyle",
+      "category": "Administration - Forms and Fields",
+      "path": "compyle\\setting-up-household-data-collection.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylesettinguphouseholdda-gu418lei6shd"
+    },
+    "compyle-setting-up-scorecard-measures": {
+      "hash": "1dbf6856d3c3956468fbf8f4e9d352edd4af45e32d8ab67a2436992fed5174b2",
+      "title": "Setting Up Scorecard Measures",
+      "url": "https://support.clearimpact.com/en/setting-up-scorecard-measures",
+      "product": "compyle",
+      "category": "Scorecard Feeds",
+      "path": "compyle\\setting-up-scorecard-measures.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylesettingupscorecardme-nebm82f0ttn5"
+    },
+    "compyle-site-level-settings": {
+      "hash": "74de73d20a96a4f420d61dc9b3291790d537e706c5e8fce2149eacf726e5e988",
+      "title": "Video 5: Administrator Tools & Site-Level Settings",
+      "url": "https://support.clearimpact.com/en/site-level-settings",
+      "product": "compyle",
+      "category": "Compyle Overview Videos",
+      "path": "compyle\\site-level-settings.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylesitelevelsettings-49sbp44ruclu"
+    },
+    "compyle-standard-participant-and-organization-fields": {
+      "hash": "6ad948ce784197d928366cf598976fc275b0b297b525a27d20fe65daa9c75af4",
+      "title": "Standard Participant and Organization Fields",
+      "url": "https://support.clearimpact.com/en/standard-participant-and-organization-fields",
+      "product": "compyle",
+      "category": "Administration - Forms and Fields",
+      "path": "compyle\\standard-participant-and-organization-fields.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylestandardparticipanta-tq723h36rzz9"
+    },
+    "compyle-survey-forms-survey-overview-folder": {
+      "hash": "3d1c2d7c6e37163cda5f0ecf1fc35098b914007e7948876982688af2dbd26528",
+      "title": "Survey Forms and Note Forms - Form Management Folder",
+      "url": "https://support.clearimpact.com/en/survey-forms-survey-overview-folder",
+      "product": "compyle",
+      "category": "Data Collection",
+      "path": "compyle\\survey-forms-survey-overview-folder.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylesurveyformssurveyove-smbzm0tzm18k"
+    },
+    "compyle-surveys": {
+      "hash": "bfce4e8adf3a3979b906673d34eb5767194ee3b6f2a86fc8b8626226b7aae9d8",
+      "title": "Video 3: Data Collections and Survey Forms",
+      "url": "https://support.clearimpact.com/en/surveys",
+      "product": "compyle",
+      "category": "Compyle Overview Videos",
+      "path": "compyle\\surveys.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylesurveys-uaw59wapl6bi"
+    },
+    "compyle-time-periods-frequencies": {
+      "hash": "62575ee256fe1b3a607c096161086ac512c815e0505c095f01bc949d5c69f106",
+      "title": "Time Periods and Frequencies",
+      "url": "https://support.clearimpact.com/en/time-periods-frequencies",
+      "product": "compyle",
+      "category": "Administration - Forms and Fields",
+      "path": "compyle\\time-periods-frequencies.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyletimeperiodsfrequenci-4xmnbwuk2r7v"
+    },
+    "compyle-translating-forms-in-compyle": {
+      "hash": "2c951c0d34874199c470fd9d5bddab079b3e13fa30df4abb2a605f319e53ebca",
+      "title": "Translating Forms in Compyle",
+      "url": "https://support.clearimpact.com/en/translating-forms-in-compyle",
+      "product": "compyle",
+      "category": "FAQ (Compyle)",
+      "path": "compyle\\translating-forms-in-compyle.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyletranslatingformsinco-742jphdsfj0u"
+    },
+    "compyle-troubleshooting-scorecard-feeds": {
+      "hash": "6797ca0d29c3fae029530b76a6902741fadb971315c127088fe875a262e113e1",
+      "title": "Troubleshooting Scorecard Feeds",
+      "url": "https://support.clearimpact.com/en/troubleshooting-scorecard-feeds",
+      "product": "compyle",
+      "category": "Scorecard Feeds",
+      "path": "compyle\\troubleshooting-scorecard-feeds.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyletroubleshootingscore-0412vknui96j"
+    },
+    "compyle-types-of-calculations": {
+      "hash": "ec67133f10dd7527bd51ace6bf62aabbddbb6abd24d0df65f2650a9a796c070b",
+      "title": "Types of Calculations",
+      "url": "https://support.clearimpact.com/en/types-of-calculations",
+      "product": "compyle",
+      "category": "Analytics",
+      "path": "compyle\\types-of-calculations.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyletypesofcalculations-yf6ypnopsixa"
+    },
+    "compyle-user-interface": {
+      "hash": "705fa1dc2f6053266bfa6c372a750f9ff4d7f06bf6f12c2f3d7b15f4b0b326c9",
+      "title": "Finding Your Way Around Compyle",
+      "url": "https://support.clearimpact.com/en/user-interface",
+      "product": "compyle",
+      "category": "Compyle Overview",
+      "path": "compyle\\user-interface.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleuserinterface-gog0plnhmkyf"
+    },
+    "compyle-video-6-scorecard-feeds": {
+      "hash": "ca404d816d220174e207a3264c1f5fd26c20ab269e2957b6099006ee19bf2b73",
+      "title": "Video 6: Scorecard Feeds (Analytics Part 2)",
+      "url": "https://support.clearimpact.com/en/video-6-scorecard-feeds",
+      "product": "compyle",
+      "category": "Compyle Overview Videos",
+      "path": "compyle\\video-6-scorecard-feeds.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylevideo6scorecardfeeds-yxtkmmes18nr"
+    },
+    "compyle-video-7-form-logic": {
+      "hash": "4f49d42b604fd6d71aa6b08342ed9aa79fd1da36918f283e5e821a8b07e1c4f4",
+      "title": "Video 7: Form Logic for Survey Forms and Note Type Forms",
+      "url": "https://support.clearimpact.com/en/video-7-form-logic",
+      "product": "compyle",
+      "category": "Compyle Overview Videos",
+      "path": "compyle\\video-7-form-logic.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylevideo7formlogic-ospj3iyp0ziw"
+    },
+    "compyle-viewing-participant-or-organization-activity": {
+      "hash": "952cc3f949351f5ae665f630788b1e6b5578735b2f8ede3197b9f090775266c7",
+      "title": "Folders: Viewing Participant or Organization Activity",
+      "url": "https://support.clearimpact.com/en/viewing-participant-or-organization-activity",
+      "product": "compyle",
+      "category": "Participants, Households, and Organizations",
+      "path": "compyle\\viewing-participant-or-organization-activity.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compyleviewingparticipantor-rwjh3hyj7rrc"
+    },
+    "compyle-what-are-data-collections-surveys-and-instances": {
+      "hash": "0f8b969869a2b9704f7d80a0a3880b0439f20f9867d70cdb8b892461404da78e",
+      "title": "What are Data Collections, Surveys, and Instances?",
+      "url": "https://support.clearimpact.com/en/what-are-data-collections-surveys-and-instances",
+      "product": "compyle",
+      "category": "Data Collection",
+      "path": "compyle\\what-are-data-collections-surveys-and-instances.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylewhataredatacollectio-t1zx22h0qrka"
+    },
+    "compyle-what-are-participants-and-organizations": {
+      "hash": "5109dd38eecdd19ac057e1080e809ab9906086668233710007220a39a79fe37c",
+      "title": "What are Participants, Households, and Organizations?",
+      "url": "https://support.clearimpact.com/en/what-are-participants-and-organizations",
+      "product": "compyle",
+      "category": "Participants, Households, and Organizations",
+      "path": "compyle\\what-are-participants-and-organizations.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylewhatareparticipantsa-yp1hcqgotzs8"
+    },
+    "compyle-what-is-a-compylation-1": {
+      "hash": "122e38d0af68de4f0dc36f73e0a9c8013de259d4c5956ca15dc41d1d61cbe7fe",
+      "title": "What is a Compylation?",
+      "url": "https://support.clearimpact.com/en/what-is-a-compylation-1",
+      "product": "compyle",
+      "category": "Analytics",
+      "path": "compyle\\what-is-a-compylation-1.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylewhatisacompylation1-i6a7zs4b3se8"
+    },
+    "compyle-what-is-a-scorecard-feed": {
+      "hash": "fe7a57ab53c878112f860d9348b7fe23a28fbf3dbd8ac5cba589d53f77a7bda4",
+      "title": "What is a Scorecard Feed?",
+      "url": "https://support.clearimpact.com/en/what-is-a-scorecard-feed",
+      "product": "compyle",
+      "category": "Scorecard Feeds",
+      "path": "compyle\\what-is-a-scorecard-feed.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylewhatisascorecardfeed-hzkf3d2kolte"
+    },
+    "compyle-whats-next-for-compyle": {
+      "hash": "3d96150339ca86bba0c6a1bead880f25b17c276eed6ba924b56e75780f8a0497",
+      "title": "What's Next for Compyle? What's on the Roadmap?",
+      "url": "https://support.clearimpact.com/en/whats-next-for-compyle",
+      "product": "compyle",
+      "category": "FAQ (Compyle)",
+      "path": "compyle\\whats-next-for-compyle.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylewhatsnextforcompyle-m0o8m2hx2k5q"
+    },
+    "compyle-why-is-the-field-count-different-for-the-same-form-in-different-places": {
+      "hash": "56eb3b08d364cc1475d557391fdc55806220bc478bb76817bcda1e509be585a6",
+      "title": "Why is the Field Count Different in Different Places in Compyle?",
+      "url": "https://support.clearimpact.com/en/why-is-the-field-count-different-for-the-same-form-in-different-places",
+      "product": "compyle",
+      "category": "FAQ (Compyle)",
+      "path": "compyle\\why-is-the-field-count-different-for-the-same-form-in-different-places.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/compylewhyisthefieldcountdi-qvfco1jqhxcz"
+    },
+    "general-accessing-control-scorecard-or-compyle": {
+      "hash": "f784393d2894593121f5b05547d8602586833f54bb322f2b4d8e36120df64faf",
+      "title": "Accessing Control, Scorecard, or Compyle",
+      "url": "https://support.clearimpact.com/en/accessing-control-scorecard-or-compyle",
+      "product": "general",
+      "category": "Control for Users",
+      "path": "general\\accessing-control-scorecard-or-compyle.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalaccessingcontrolscor-sef11am297hi"
+    },
+    "general-clear-impact-control-overview": {
+      "hash": "da3a8ffb0efafaf66ba317f679390c04f87e2ea1ece4c7e2e921adc8124cdd0b",
+      "title": "Clear Impact Control Overview",
+      "url": "https://support.clearimpact.com/en/clear-impact-control-overview",
+      "product": "general",
+      "category": "Control Overview",
+      "path": "general\\clear-impact-control-overview.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalclearimpactcontrolov-w208p4yipspf"
+    },
+    "general-clear-impact-customer-training": {
+      "hash": "aa63712255bfdba3019c9802f2b6a13461c8752d5986694007f4c3e429c29653",
+      "title": "Clear Impact Customer Training",
+      "url": "https://support.clearimpact.com/en/clear-impact-customer-training",
+      "product": "general",
+      "category": "Free and Customized Training",
+      "path": "general\\clear-impact-customer-training.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalclearimpactcustomert-dmp6jjk4w46g"
+    },
+    "general-clear-impact-showcase-pilot-program": {
+      "hash": "45c2bcd64da0f245442b2341be7afe71efeaec13ca39bbae6ce2000bb16aae5a",
+      "title": "Clear Impact 'Showcase' Beta Testing: Try Our Digital Storytelling Dashboard Application and Give Us Feedback",
+      "url": "https://support.clearimpact.com/en/clear-impact-showcase-pilot-program",
+      "product": "general",
+      "category": "Coming Attractions & Sneak Peeks",
+      "path": "general\\clear-impact-showcase-pilot-program.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalclearimpactshowcasep-o5uh6f3trjqr"
+    },
+    "general-clear-impact-suite-overview": {
+      "hash": "b106b1dfa5a6e8f7e934580e6dc86cda297f54820a07ad15d1fe16e0e7c1c6b4",
+      "title": "Clear Impact Suite Overview",
+      "url": "https://support.clearimpact.com/en/clear-impact-suite-overview",
+      "product": "general",
+      "category": "Clear Impact Suite Overview",
+      "path": "general\\clear-impact-suite-overview.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalclearimpactsuiteover-zhc53on4sr9q"
+    },
+    "general-common-control": {
+      "hash": "209e522449f4475788408aacb628ddb4db71121672ddb459c97281641cd4b01a",
+      "title": "Common Control Questions",
+      "url": "https://support.clearimpact.com/en/common-control",
+      "product": "general",
+      "category": "Control FAQ",
+      "path": "general\\common-control.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalcommoncontrol-auzfnegk1du6"
+    },
+    "general-compyle-courses": {
+      "hash": "f52e1cbaa125216b72b8881980ff21bc40c9817adf095792df2debbda5387945",
+      "title": "Compyle Courses",
+      "url": "https://support.clearimpact.com/en/compyle-courses",
+      "product": "general",
+      "category": "Software Courses",
+      "path": "general\\compyle-courses.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalcompylecourses-u7b9dw02w0n9"
+    },
+    "general-control-compyle-and-scorecard-release-notes-november-2024": {
+      "hash": "8b726772cab99c23e5398fb06cb6522785c414d41444bddf8c1152904fb8646c",
+      "title": "Control, Compyle, and Scorecard Release Notes - November 2024",
+      "url": "https://support.clearimpact.com/en/control-compyle-and-scorecard-release-notes-november-2024",
+      "product": "general",
+      "category": "Suite Release Notes",
+      "path": "general\\control-compyle-and-scorecard-release-notes-november-2024.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalcontrolcompyleandsco-2yl08zbpltxa"
+    },
+    "general-creating-a-new-user": {
+      "hash": "d503e075ee5ec04de2711e601aef8b1fd8955797acffee81267b8156ea44ee1a",
+      "title": "Creating a New User",
+      "url": "https://support.clearimpact.com/en/creating-a-new-user",
+      "product": "general",
+      "category": "Control for Administrators",
+      "path": "general\\creating-a-new-user.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalcreatinganewuser-istgz8c4aky3"
+    },
+    "general-getting-started-with-suite": {
+      "hash": "7871399180486a2715ff98c10d26b84d14749edfcb7f29d8aecad2330bbef8dc",
+      "title": "Getting Started with Suite",
+      "url": "https://support.clearimpact.com/en/getting-started-with-suite",
+      "product": "general",
+      "category": "Clear Impact Suite Overview",
+      "path": "general\\getting-started-with-suite.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalgettingstartedwithsu-dyc428178kxn"
+    },
+    "general-how-are-organizations-like-mine-using-clear-impact-software-and-rba": {
+      "hash": "2a0f863cf6beea091c56a9bb2a303e75f0ba6c564ad1e12b32338344730a45f1",
+      "title": "How are Organizations Like Mine Using Clear Impact Software and RBA?",
+      "url": "https://support.clearimpact.com/en/how-are-organizations-like-mine-using-clear-impact-software-and-rba",
+      "product": "general",
+      "category": "Resources & Results",
+      "path": "general\\how-are-organizations-like-mine-using-clear-impact-software-and-rba.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalhowareorganizationsl-5g7u2gssrkj3"
+    },
+    "general-importing-users-in-control": {
+      "hash": "0723f5f397f2a4bbd033eb629bdfad9f59f8dfd88de8663d0158924931cd4104",
+      "title": "Importing Users in Control",
+      "url": "https://support.clearimpact.com/en/importing-users-in-control",
+      "product": "general",
+      "category": "Control for Administrators",
+      "path": "general\\importing-users-in-control.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalimportingusersincont-c5xfdocy0fia"
+    },
+    "general-managing-instances": {
+      "hash": "42defb2cc745e3537548777ed684ee5e702b499331c39206cce7173f2c5bf40f",
+      "title": "Managing Multiple Sites/Instances",
+      "url": "https://support.clearimpact.com/en/managing-instances",
+      "product": "general",
+      "category": "Control for Administrators",
+      "path": "general\\managing-instances.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalmanaginginstances-a51ysjhn2cx2"
+    },
+    "general-sample-unlimited-suite-rollout-plan": {
+      "hash": "27f1e9488acb419d0b209476f51504f079fc7c2e05428b4eb262417374bf4ac0",
+      "title": "Sample Unlimited Suite Rollout Plan",
+      "url": "https://support.clearimpact.com/en/sample-unlimited-suite-rollout-plan",
+      "product": "general",
+      "category": "Suite Implementation Materials",
+      "path": "general\\sample-unlimited-suite-rollout-plan.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalsampleunlimitedsuite-d78ebrnlv3th"
+    },
+    "general-structuring-performance-measurement-from-multiple-suites-to-a-central-scorecard": {
+      "hash": "5b2b733fd90d49f73f78988d6d5e10f59f1be9ba4e85b022f8c658e837a1efa2",
+      "title": "Unlimited Suite: Overview of Data Flow",
+      "url": "https://support.clearimpact.com/en/structuring-performance-measurement-from-multiple-suites-to-a-central-scorecard",
+      "product": "general",
+      "category": "Rolling Up Data Across the Unlimited Suite Network",
+      "path": "general\\structuring-performance-measurement-from-multiple-suites-to-a-central-scorecard.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalstructuringperforman-40j2lhhtci04"
+    },
+    "general-suite-initial-implementation-questions": {
+      "hash": "99b95805f5d8ccf68d4b8a09960bb119d18e21bb5d61438adbbede5f5bf7eaad",
+      "title": "Unlimited Suite Initial Implementation Questions",
+      "url": "https://support.clearimpact.com/en/suite-initial-implementation-questions",
+      "product": "general",
+      "category": "Suite Implementation Materials",
+      "path": "general\\suite-initial-implementation-questions.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalsuiteinitialimplemen-xi9l8q8tpife"
+    },
+    "general-unlimited-suite-customer-implementation-guide": {
+      "hash": "a7c13b385d9e74c2b655b02f196a43c1689d9d7b7258a3d8613d22f1e9109974",
+      "title": "Unlimited Suite Customer Implementation Guide",
+      "url": "https://support.clearimpact.com/en/unlimited-suite-customer-implementation-guide",
+      "product": "general",
+      "category": "Suite Implementation Materials",
+      "path": "general\\unlimited-suite-customer-implementation-guide.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalunlimitedsuitecustom-8js406spw18r"
+    },
+    "general-unlimited-suite-information-gathering-from-partner-agencies-and-affiliates": {
+      "hash": "2572554ef07e1d8d3f312dbfcc61cccaf7122ff45126accf95597a4a098ffc1d",
+      "title": "Unlimited Suite: Partner Agency/Affiliate Data Tracking Self-Assessment",
+      "url": "https://support.clearimpact.com/en/unlimited-suite-information-gathering-from-partner-agencies-and-affiliates",
+      "product": "general",
+      "category": "Suite Implementation Materials",
+      "path": "general\\unlimited-suite-information-gathering-from-partner-agencies-and-affiliates.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalunlimitedsuiteinform-58b73tl2riey"
+    },
+    "general-unlimited-suite-instance-creation-worksheet": {
+      "hash": "63f47a85bc8706a7c823556037b7154ec286d75b237d84ba40aab4a842c0aad4",
+      "title": "Unlimited Suite Instance Creation Worksheet",
+      "url": "https://support.clearimpact.com/en/unlimited-suite-instance-creation-worksheet",
+      "product": "general",
+      "category": "Suite Implementation Materials",
+      "path": "general\\unlimited-suite-instance-creation-worksheet.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalunlimitedsuiteinstan-lfydo6qz5tiz"
+    },
+    "general-unlimited-suite-setting-up-the-data-flow": {
+      "hash": "79ce61ab1e0ef7cafeaa7779a50059f18fe58de37fecc20fe745a87ead0c479d",
+      "title": "Unlimited Suite: Setting Up the Data Flow - Partner Connections",
+      "url": "https://support.clearimpact.com/en/unlimited-suite-setting-up-the-data-flow",
+      "product": "general",
+      "category": "Rolling Up Data Across the Unlimited Suite Network",
+      "path": "general\\unlimited-suite-setting-up-the-data-flow.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalunlimitedsuitesettin-bs8pc12bcmpm"
+    },
+    "general-users-login-and-passwords": {
+      "hash": "9d1a5d1319e73af3c5f208cca6a2ddb69e2f6084805e29243e0eb5b87ae87016",
+      "title": "Users, Login, and Passwords",
+      "url": "https://support.clearimpact.com/en/users-login-and-passwords",
+      "product": "general",
+      "category": "Control for Users",
+      "path": "general\\users-login-and-passwords.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalusersloginandpasswor-32fy9qb9q0yc"
+    },
+    "general-viewing-or-managing-account-details": {
+      "hash": "2c0ae8d47e81e1b82e5da2d0b9cbfcf802e4ded719815720b284c585dc3173c1",
+      "title": "Your User Account: Change Your Password and Edit Your Name",
+      "url": "https://support.clearimpact.com/en/viewing-or-managing-account-details",
+      "product": "general",
+      "category": "Control for Users",
+      "path": "general\\viewing-or-managing-account-details.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalviewingormanagingacc-03leyu7krezz"
+    },
+    "general-viewing-or-managing-organization-details": {
+      "hash": "410211c66f3e1f8cae799f5e49d67fd891f51358e564e7e12a2af42e76d55cec",
+      "title": "Viewing or Managing Organization Details",
+      "url": "https://support.clearimpact.com/en/viewing-or-managing-organization-details",
+      "product": "general",
+      "category": "Control for Administrators",
+      "path": "general\\viewing-or-managing-organization-details.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalviewingormanagingorg-atiqmnh9pr6k"
+    },
+    "general-viewing-or-managing-products-and-subscriptions": {
+      "hash": "5ea7f52ddbcd6ccd709468c699bef518eb7f2a4d331081101da79e7efbbfe831",
+      "title": "Viewing or Managing Products and Subscriptions",
+      "url": "https://support.clearimpact.com/en/viewing-or-managing-products-and-subscriptions",
+      "product": "general",
+      "category": "Control for Administrators",
+      "path": "general\\viewing-or-managing-products-and-subscriptions.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalviewingormanagingpro-c62i6nmb9aup"
+    },
+    "general-viewing-or-managing-users": {
+      "hash": "6190747a78610f00429d4e7ffe4f29e46faf9982898cce4247bb309f674a8b7e",
+      "title": "Viewing or Managing Users",
+      "url": "https://support.clearimpact.com/en/viewing-or-managing-users",
+      "product": "general",
+      "category": "Control for Administrators",
+      "path": "general\\viewing-or-managing-users.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/generalviewingormanaginguse-36ad5f8xtc6s"
+    },
+    "scorecard-2023-action-custom-fields": {
+      "hash": "af271ee77b2bb44fc30f7da886b2273d4919b8ca44526c7bd2dbea75931f7cff",
+      "title": "Action Custom Fields",
+      "url": "https://support.clearimpact.com/en/2023-action-custom-fields",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\2023-action-custom-fields.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023actioncustomfi-sh0wnk7vkbx5"
+    },
+    "scorecard-2023-action-manager": {
+      "hash": "6a9d415858dfe21db649bfd2332536a32753fdb8415b69d0a233a42610fe83ab",
+      "title": "Action Manager",
+      "url": "https://support.clearimpact.com/en/2023-action-manager",
+      "product": "scorecard",
+      "category": "Actions",
+      "path": "scorecard\\2023-action-manager.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023actionmanager-lnrj6evo43e1"
+    },
+    "scorecard-2023-adding-a-new-container-to-a-scorecard": {
+      "hash": "fba1669cafca08e45b2cc4d308e73dd12efff3766696cd2c5fbc52b5c8bb3546",
+      "title": "Adding a New Container to a Scorecard",
+      "url": "https://support.clearimpact.com/en/2023-adding-a-new-container-to-a-scorecard",
+      "product": "scorecard",
+      "category": "Scorecards",
+      "path": "scorecard\\2023-adding-a-new-container-to-a-scorecard.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023addinganewcont-cloaipem9yph"
+    },
+    "scorecard-2023-adding-an-existing-container-to-a-scorecard": {
+      "hash": "1e99dcb5ccee016e8ae2075ffad737c1ea03ac7c5f85ed291b6223bcf30d3a90",
+      "title": "Adding an Existing Container to a Scorecard",
+      "url": "https://support.clearimpact.com/en/2023-adding-an-existing-container-to-a-scorecard",
+      "product": "scorecard",
+      "category": "Scorecards",
+      "path": "scorecard\\2023-adding-an-existing-container-to-a-scorecard.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023addinganexisti-b74ew078tjkj"
+    },
+    "scorecard-2023-adding-notes-to-scorecard-objects": {
+      "hash": "0c40e1e44184a6b118d5c106ed4e148237052c37a803a575405ab4add954c35e",
+      "title": "Adding Notes to Scorecard Objects",
+      "url": "https://support.clearimpact.com/en/2023-adding-notes-to-scorecard-objects",
+      "product": "scorecard",
+      "category": "Entering Scorecard Data and Notes",
+      "path": "scorecard\\2023-adding-notes-to-scorecard-objects.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023addingnotestos-chqk3p3b5muz"
+    },
+    "scorecard-2023-api-actions": {
+      "hash": "c33e10b16e7fcdf44768d93d26f71a3f8c2f24d9165a4fee18ca4cae590142b8",
+      "title": "API: Actions",
+      "url": "https://support.clearimpact.com/en/2023-api-actions",
+      "product": "scorecard",
+      "category": "API",
+      "path": "scorecard\\2023-api-actions.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023apiactions-05fyzfe5l79v"
+    },
+    "scorecard-2023-api-containers": {
+      "hash": "266e8a8cd108bc27fa8cbdaa8ea62c574ad69f9563d5690956b5458fdf6da4bf",
+      "title": "API: Containers",
+      "url": "https://support.clearimpact.com/en/2023-api-containers",
+      "product": "scorecard",
+      "category": "API",
+      "path": "scorecard\\2023-api-containers.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023apicontainers-8jpwnaxx6znf"
+    },
+    "scorecard-2023-api-development-tips": {
+      "hash": "89fc18b68e72e7e75866e5f60ac50e62593b17dde99a83514f3d5af2f261a36a",
+      "title": "API: Development Tips",
+      "url": "https://support.clearimpact.com/en/2023-api-development-tips",
+      "product": "scorecard",
+      "category": "API",
+      "path": "scorecard\\2023-api-development-tips.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023apidevelopment-s08u5ns66y2e"
+    },
+    "scorecard-2023-api-export-data-values": {
+      "hash": "ba231a6a6dc2ccf550041d4c5161e1ebbcd7b0ad08eee6b1ff718e917558301c",
+      "title": "API: Export Data Values",
+      "url": "https://support.clearimpact.com/en/2023-api-export-data-values",
+      "product": "scorecard",
+      "category": "API",
+      "path": "scorecard\\2023-api-export-data-values.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023apiexportdatav-4l8yvu1j8lkz"
+    },
+    "scorecard-2023-api-import-data-values": {
+      "hash": "984d5fa280904adb83f353e5e3497a627d3d1ee461ecc23535884c0ae531ada8",
+      "title": "API: Import Data Values",
+      "url": "https://support.clearimpact.com/en/2023-api-import-data-values",
+      "product": "scorecard",
+      "category": "API",
+      "path": "scorecard\\2023-api-import-data-values.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023apiimportdatav-ruv831ulsovp"
+    },
+    "scorecard-2023-api-measures": {
+      "hash": "5ed3c5d93816108aba629c975f0c9756080257746a801051a160b7d669c779c4",
+      "title": "API: Measures",
+      "url": "https://support.clearimpact.com/en/2023-api-measures",
+      "product": "scorecard",
+      "category": "API",
+      "path": "scorecard\\2023-api-measures.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023apimeasures-gzs4saxkdq6z"
+    },
+    "scorecard-2023-api-overview": {
+      "hash": "b426c368cc4a69ddfdfd43b4713b38d4220d0b83b4e3f043eaeb5b36d1b22450",
+      "title": "API: Overview and Authentication",
+      "url": "https://support.clearimpact.com/en/2023-api-overview",
+      "product": "scorecard",
+      "category": "API",
+      "path": "scorecard\\2023-api-overview.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023apioverview-s9m0qsk13uwo"
+    },
+    "scorecard-2023-api-scorecards": {
+      "hash": "872b0efa0fce51217f7539b7c2487fa2b618f08c5ac1d75ac51b280d63f64057",
+      "title": "API: Scorecards",
+      "url": "https://support.clearimpact.com/en/2023-api-scorecards",
+      "product": "scorecard",
+      "category": "API",
+      "path": "scorecard\\2023-api-scorecards.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023apiscorecards-clh6z6cddvng"
+    },
+    "scorecard-2023-api-tags": {
+      "hash": "3ed72a9da168a624bc116965ffd148c287e1edb1497c2a6f1a1b5695e4828abd",
+      "title": "API: Tags",
+      "url": "https://support.clearimpact.com/en/2023-api-tags",
+      "product": "scorecard",
+      "category": "API",
+      "path": "scorecard\\2023-api-tags.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023apitags-0xvb3l9o3grn"
+    },
+    "scorecard-2023-api-users": {
+      "hash": "96ba43cd84befaf9fbef7b34576ed2b78b0d976120743bc98bd3248a07af31fb",
+      "title": "API: Users",
+      "url": "https://support.clearimpact.com/en/2023-api-users",
+      "product": "scorecard",
+      "category": "API",
+      "path": "scorecard\\2023-api-users.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023apiusers-mxyjenby02nw"
+    },
+    "scorecard-2023-api": {
+      "hash": "a3733f27129de22802e704b057be93567c583a00b5152e21136dde098dcef59b",
+      "title": "API",
+      "url": "https://support.clearimpact.com/en/2023-api",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\2023-api.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023api-o7051jcvdakj"
+    },
+    "scorecard-2023-column-settings": {
+      "hash": "4852141d1eb6b7b3ffe4a949bea1f5104bcdae89ba7d0e158502e31fbe2c6545",
+      "title": "Column Settings",
+      "url": "https://support.clearimpact.com/en/2023-column-settings",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\2023-column-settings.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023columnsettings-nf9vrejpp5m1"
+    },
+    "scorecard-2023-common-terms": {
+      "hash": "30ea29db69cf4f5708267cdf0dd01a12a4871a2e624895b50403b96d6149d512",
+      "title": "Common Terms",
+      "url": "https://support.clearimpact.com/en/2023-common-terms",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\2023-common-terms.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023commonterms-yox5oi6kanlh"
+    },
+    "scorecard-2023-control": {
+      "hash": "5e637b354b09c86a69be6f334d5165ca906b17d5e22abab5770ae727033d22ea",
+      "title": "Clear Impact Account",
+      "url": "https://support.clearimpact.com/en/2023-control",
+      "product": "scorecard",
+      "category": "Getting Started",
+      "path": "scorecard\\2023-control.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023control-khmzgw7f77rm"
+    },
+    "scorecard-2023-copying-scorecard-objects": {
+      "hash": "dea5c36cb8feee024ef9c0100495512bc44b623ce5d568c2eb00b4d09700c682",
+      "title": "Copying Scorecard Objects",
+      "url": "https://support.clearimpact.com/en/2023-copying-scorecard-objects",
+      "product": "scorecard",
+      "category": "Scorecard Objects",
+      "path": "scorecard\\2023-copying-scorecard-objects.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023copyingscoreca-sllrstjcb4uv"
+    },
+    "scorecard-2023-creating-a-custom-report": {
+      "hash": "5af2b792a90f82940d2c9456145d1d61497221eb5e35a52af883d4463e124db3",
+      "title": "Creating a Custom Report",
+      "url": "https://support.clearimpact.com/en/2023-creating-a-custom-report",
+      "product": "scorecard",
+      "category": "Reports",
+      "path": "scorecard\\2023-creating-a-custom-report.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023creatingacusto-cml7feuh1vo5"
+    },
+    "scorecard-2023-creating-a-measure-from-scratch": {
+      "hash": "b7b6368d978934af7d76177fa3378a94917fadadac108697505b26ac9cd23929",
+      "title": "Creating a Measure from Scratch",
+      "url": "https://support.clearimpact.com/en/2023-creating-a-measure-from-scratch",
+      "product": "scorecard",
+      "category": "Scorecard Objects",
+      "path": "scorecard\\2023-creating-a-measure-from-scratch.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023creatingameasu-q6ij62vj6j5l"
+    },
+    "scorecard-2023-creating-a-result-or-program-from-scratch": {
+      "hash": "2f1e8ea561588f36b3bc9b8918ed75cc322d27c6ba4ec57ca9dfa57cfc39eccf",
+      "title": "Creating a Result or Program from Scratch",
+      "url": "https://support.clearimpact.com/en/2023-creating-a-result-or-program-from-scratch",
+      "product": "scorecard",
+      "category": "Scorecard Objects",
+      "path": "scorecard\\2023-creating-a-result-or-program-from-scratch.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023creatingaresul-4xj5vehmeev1"
+    },
+    "scorecard-2023-creating-a-scorecard": {
+      "hash": "747eca7f55181f0dc0e356c7b10cdfa977fd92e4b61850ef62914c604d4e2252",
+      "title": "Creating a Scorecard",
+      "url": "https://support.clearimpact.com/en/2023-creating-a-scorecard",
+      "product": "scorecard",
+      "category": "Scorecards",
+      "path": "scorecard\\2023-creating-a-scorecard.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023creatingascore-293pg43tu60a"
+    },
+    "scorecard-2023-creating-accumulated-calculations": {
+      "hash": "0b4eedf7638e47fe66c7f224600d563fe6e838665c3a109f2398be005057bc13",
+      "title": "Creating Accumulated Calculations",
+      "url": "https://support.clearimpact.com/en/2023-creating-accumulated-calculations",
+      "product": "scorecard",
+      "category": "Entering Scorecard Data and Notes",
+      "path": "scorecard\\2023-creating-accumulated-calculations.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023creatingaccumu-0mk52mt04y78"
+    },
+    "scorecard-2023-creating-an-action": {
+      "hash": "3f1879f2d659ce51a119e2a260f188d0a776613e93a92b5b349010e596a32b92",
+      "title": "Creating an Action",
+      "url": "https://support.clearimpact.com/en/2023-creating-an-action",
+      "product": "scorecard",
+      "category": "Actions",
+      "path": "scorecard\\2023-creating-an-action.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023creatinganacti-bprdc446z3lt"
+    },
+    "scorecard-2023-creating-calculated-data-values-for-a-measure": {
+      "hash": "8ea9229cf6e93f41a83a06b7aa1dfd37d393215ee93e26ab2d71f5eeabdd4057",
+      "title": "Creating Calculated Data Values for a Measure",
+      "url": "https://support.clearimpact.com/en/2023-creating-calculated-data-values-for-a-measure",
+      "product": "scorecard",
+      "category": "Entering Scorecard Data and Notes",
+      "path": "scorecard\\2023-creating-calculated-data-values-for-a-measure.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023creatingcalcul-yli0f8rt9dcm"
+    },
+    "scorecard-2023-creating-calculated-data-values-using-variables": {
+      "hash": "6973f76de40bd56740098eb0d69daa7e3a0814934c4a32e3b8bdcc8281316ae0",
+      "title": "Creating Calculated Data Values Using Variables",
+      "url": "https://support.clearimpact.com/en/2023-creating-calculated-data-values-using-variables",
+      "product": "scorecard",
+      "category": "Entering Scorecard Data and Notes",
+      "path": "scorecard\\2023-creating-calculated-data-values-using-variables.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023creatingcalcul-45kjl5khrll2"
+    },
+    "scorecard-2023-creating-custom-calculations": {
+      "hash": "d8bb36d599d4a22b9f3b1e787d8c361fbb481d62e2f725c159db028a9ab2d7e2",
+      "title": "Creating Custom Calculations",
+      "url": "https://support.clearimpact.com/en/2023-creating-custom-calculations",
+      "product": "scorecard",
+      "category": "Entering Scorecard Data and Notes",
+      "path": "scorecard\\2023-creating-custom-calculations.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023creatingcustom-dqlemok5buzu"
+    },
+    "scorecard-2023-customizing-a-default-report": {
+      "hash": "9d7490db601c3b8492cc586f15b2f1dcb7d2fd7c262363cc121c7dbac511a31f",
+      "title": "Customizing a Default Report",
+      "url": "https://support.clearimpact.com/en/2023-customizing-a-default-report",
+      "product": "scorecard",
+      "category": "Reports",
+      "path": "scorecard\\2023-customizing-a-default-report.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023customizingade-npmfb3fyey4t"
+    },
+    "scorecard-2023-dashboard": {
+      "hash": "70c228d617e2aad914080088a210b005e84414c67266d0d463200092de5a09cc",
+      "title": "User Interface and Dashboard",
+      "url": "https://support.clearimpact.com/en/2023-dashboard",
+      "product": "scorecard",
+      "category": "Getting Started",
+      "path": "scorecard\\2023-dashboard.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023dashboard-j6cedz5kjgoo"
+    },
+    "scorecard-2023-default-reports": {
+      "hash": "e9870b0eaa70fc8bb55edf82ca9923cc68f0664c72002e88f48cdc1406b05fe8",
+      "title": "Default Reports",
+      "url": "https://support.clearimpact.com/en/2023-default-reports",
+      "product": "scorecard",
+      "category": "Reports",
+      "path": "scorecard\\2023-default-reports.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023defaultreports-tybv61mpf7vt"
+    },
+    "scorecard-2023-delete-log": {
+      "hash": "568c17439e611bbf53e0cabd5bde09656703ea303db7b10ef9e315433ca4ad80",
+      "title": "Delete Log",
+      "url": "https://support.clearimpact.com/en/2023-delete-log",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\2023-delete-log.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023deletelog-kn7uwhzn2jne"
+    },
+    "scorecard-2023-editing-a-scorecard-or-container": {
+      "hash": "135cbaa7660e374da0df9ed5bbf0ead46f1ab1a1a1b77b4487acf4624fabee77",
+      "title": "Editing a Scorecard or Container",
+      "url": "https://support.clearimpact.com/en/2023-editing-a-scorecard-or-container",
+      "product": "scorecard",
+      "category": "Viewing or Editing Scorecard Objects and Data",
+      "path": "scorecard\\2023-editing-a-scorecard-or-container.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023editingascorec-3e19b7mki4f9"
+    },
+    "scorecard-2023-embed-views": {
+      "hash": "a78cf8a3c8fbca71ceb3e2d5287d73276cbc6f1a5588a998b5ec7f45e9a36bb3",
+      "title": "Embed Views",
+      "url": "https://support.clearimpact.com/en/2023-embed-views",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\2023-embed-views.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023embedviews-1f3pmryj6nd2"
+    },
+    "scorecard-2023-embedding-scorecards-and-scorecard-objects": {
+      "hash": "8250c339712255b00da65825ebabdd88b05c916aa7a960e7ce158d9ae4a5d44a",
+      "title": "Embedding Scorecards and Scorecard Objects",
+      "url": "https://support.clearimpact.com/en/2023-embedding-scorecards-and-scorecard-objects",
+      "product": "scorecard",
+      "category": "Viewing or Editing Scorecard Objects and Data",
+      "path": "scorecard\\2023-embedding-scorecards-and-scorecard-objects.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023embeddingscore-1c48jdezkpnd"
+    },
+    "scorecard-2023-entering-data-values-and-target-values-for-a-measure": {
+      "hash": "8302ef7425c47efc6d9360eea2b71ac43acaf2ae8ff5690f05adbb4056a7837b",
+      "title": "Entering or Editing Data Values and Target Values for a Measure",
+      "url": "https://support.clearimpact.com/en/2023-entering-data-values-and-target-values-for-a-measure",
+      "product": "scorecard",
+      "category": "Entering Scorecard Data and Notes",
+      "path": "scorecard\\2023-entering-data-values-and-target-values-for-a-measure.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023enteringdatava-r437uuejxwg8"
+    },
+    "scorecard-2023-entering-forecast-values-for-a-measure": {
+      "hash": "e2d74455cb0c56ec9e25e4bb4db6fc26f4efc9e9c0a6738c1df89c61d4717303",
+      "title": "Entering Forecast Values for a Measure",
+      "url": "https://support.clearimpact.com/en/2023-entering-forecast-values-for-a-measure",
+      "product": "scorecard",
+      "category": "Entering Scorecard Data and Notes",
+      "path": "scorecard\\2023-entering-forecast-values-for-a-measure.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023enteringforeca-aniy54w27tl7"
+    },
+    "scorecard-2023-files": {
+      "hash": "ad06b8ff6bc7a79a62391940c7816c41af6100a31d00d5d6c3e4891c466d57cc",
+      "title": "Files",
+      "url": "https://support.clearimpact.com/en/2023-files",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\2023-files.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023files-8xor2a1wfmh1"
+    },
+    "scorecard-2023-gantt-chart": {
+      "hash": "c7a03aee94fdac3876581cb5cf047c83241126f0fc510eb0a0ed24b74ebaf3bb",
+      "title": "Gantt Chart",
+      "url": "https://support.clearimpact.com/en/2023-gantt-chart",
+      "product": "scorecard",
+      "category": "Actions",
+      "path": "scorecard\\2023-gantt-chart.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023ganttchart-al582569qwyv"
+    },
+    "scorecard-2023-general-settings": {
+      "hash": "be9754f0e80778eeb2ebfa884179e253152032d4cf973f0f1eb8df3f779c8d4d",
+      "title": "General Settings",
+      "url": "https://support.clearimpact.com/en/2023-general-settings",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\2023-general-settings.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023generalsetting-7jo80ky9araz"
+    },
+    "scorecard-2023-global-color-bands": {
+      "hash": "3545de88c282ba8361fa2cb64fbdb8e724af37ce15c82787c30a7a595959698a",
+      "title": "Global Color Bands",
+      "url": "https://support.clearimpact.com/en/2023-global-color-bands",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\2023-global-color-bands.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023globalcolorban-8rtza0ybc6hc"
+    },
+    "scorecard-2023-graph-settings-and-color-bands": {
+      "hash": "d6abbe8218ddd862018376c0933b627bee46c64944de3e946487102046da750b",
+      "title": "Graph Settings and Color Bands",
+      "url": "https://support.clearimpact.com/en/2023-graph-settings-and-color-bands",
+      "product": "scorecard",
+      "category": "Viewing or Editing Scorecard Objects and Data",
+      "path": "scorecard\\2023-graph-settings-and-color-bands.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023graphsettingsa-zsyixtlezoo9"
+    },
+    "scorecard-2023-graph-settings": {
+      "hash": "11fd7789320ea7ff0b526a6223a6b5ab5114b243970f458d8ad2f20c75e7aa69",
+      "title": "Graph Settings",
+      "url": "https://support.clearimpact.com/en/2023-graph-settings",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\2023-graph-settings.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023graphsettings-k149i7yb390z"
+    },
+    "scorecard-2023-import-data": {
+      "hash": "01fc50307f979f4bcbca4460fa1feae67323ad88ed6f67fd29f5347ff7e3d0ba",
+      "title": "Import Data",
+      "url": "https://support.clearimpact.com/en/2023-import-data",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\2023-import-data.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023importdata-aaz5hbayy3a4"
+    },
+    "scorecard-2023-import-users": {
+      "hash": "75f215caec7d82c07d3fb4fcaa2eb42adfd79f693b638b753afde2a01c82f85e",
+      "title": "Import Users",
+      "url": "https://support.clearimpact.com/en/2023-import-users",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\2023-import-users.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023importusers-eeliehzgbrmx"
+    },
+    "scorecard-2023-indicator-program-measure-or-variable-lists": {
+      "hash": "9c8142e0679f2ee8d05491c518ce4f4fcee3bf5d68cae43e2f53f5e914b1b542",
+      "title": "Indicator, Program Measure, or Variable Lists",
+      "url": "https://support.clearimpact.com/en/2023-indicator-program-measure-or-variable-lists",
+      "product": "scorecard",
+      "category": "Scorecard Objects",
+      "path": "scorecard\\2023-indicator-program-measure-or-variable-lists.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023indicatorprogr-egppkuowuot4"
+    },
+    "scorecard-2023-indicators-and-performance-measures": {
+      "hash": "0eddca4bcfcbf920a90535ab0b68f56e5952ebf73cee483829ef7af35f39c69a",
+      "title": "Indicators and Performance Measures",
+      "url": "https://support.clearimpact.com/en/2023-indicators-and-performance-measures",
+      "product": "scorecard",
+      "category": "Scorecard Objects",
+      "path": "scorecard\\2023-indicators-and-performance-measures.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023indicatorsandp-d432svv5numc"
+    },
+    "scorecard-2023-instance-dashboard": {
+      "hash": "ed66bdc5f0d534e9b093a29097a7dcf573b173ad42391fa2fc4c79bda5bac7dc",
+      "title": "Instance Dashboard",
+      "url": "https://support.clearimpact.com/en/2023-instance-dashboard",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\2023-instance-dashboard.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023instancedashbo-ola68rrnn677"
+    },
+    "scorecard-2023-instance-info": {
+      "hash": "aa9ee826bdbe41e46051a94f2a2a7207326c6053a1e9db8e006b959876fb68e5",
+      "title": "Instance Info",
+      "url": "https://support.clearimpact.com/en/2023-instance-info",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\2023-instance-info.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023instanceinfo-e12uaiqeae4k"
+    },
+    "scorecard-2023-multi-instance-license-mgmt": {
+      "hash": "1ddbaffcc281b5f3ff1de8407058c63816a8e8716f22ea5931abd3482dfd173c",
+      "title": "Multi-Instance License Mgmt",
+      "url": "https://support.clearimpact.com/en/2023-multi-instance-license-mgmt",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\2023-multi-instance-license-mgmt.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023multiinstancel-juzjj8mtsm2c"
+    },
+    "scorecard-2023-notes": {
+      "hash": "9ef3953efbebe27da95f36eac6e1a2a0319cb504c719836746f4369f7b3a5450",
+      "title": "Notes",
+      "url": "https://support.clearimpact.com/en/2023-notes",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\2023-notes.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023notes-l8uds8jqseii"
+    },
+    "scorecard-2023-object-types": {
+      "hash": "57ff03b4b895a190c84ff8a1a40b3550f09662020c91f8167245430fe4a47ced",
+      "title": "Object Types",
+      "url": "https://support.clearimpact.com/en/2023-object-types",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\2023-object-types.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023objecttypes-dfxmrdtk8p1v"
+    },
+    "scorecard-2023-object": {
+      "hash": "475d10bb1a520bb76c692af13fe6140745e26924e7cec1831a6a4bd6a7bd15eb",
+      "title": "Object Lookup",
+      "url": "https://support.clearimpact.com/en/2023-object",
+      "product": "scorecard",
+      "category": "Scorecard Objects",
+      "path": "scorecard\\2023-object.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023object-c5mbx6bz6iwr"
+    },
+    "scorecard-2023-partner-connect": {
+      "hash": "0d460a1ccb3121f1af9fa5899b9c2e2ce3817cfa3b05c302cdca64f75d854b66",
+      "title": "Partner Connect",
+      "url": "https://support.clearimpact.com/en/2023-partner-connect",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\2023-partner-connect.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023partnerconnect-pxgtqcazp614"
+    },
+    "scorecard-2023-preferences": {
+      "hash": "9f350cb381d6845a68dc5d3dc2028b595c8517bf679eae1fb14d919ce42129bb",
+      "title": "Preferences",
+      "url": "https://support.clearimpact.com/en/2023-preferences",
+      "product": "scorecard",
+      "category": "Getting Started",
+      "path": "scorecard\\2023-preferences.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023preferences-v0h2kxpaeqfj"
+    },
+    "scorecard-2023-rba-resources-and-dvd-stream": {
+      "hash": "c3fbf5a8ebb80fb240d35cbe756ee23bb0eb1d8706a5a2046bad0114c94b2661",
+      "title": "RBA Resources",
+      "url": "https://support.clearimpact.com/en/2023-rba-resources-and-dvd-stream",
+      "product": "scorecard",
+      "category": "Tools",
+      "path": "scorecard\\2023-rba-resources-and-dvd-stream.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023rbaresourcesan-7ki9sir292vo"
+    },
+    "scorecard-2023-reporting-frequencies": {
+      "hash": "2c12d73dca03f08c3fb10d5415d6fe3a13462fda66c581bb956d2942a6087499",
+      "title": "Reporting Frequencies",
+      "url": "https://support.clearimpact.com/en/2023-reporting-frequencies",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\2023-reporting-frequencies.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023reportingfrequ-r6obmsfzobsx"
+    },
+    "scorecard-2023-results-and-programs": {
+      "hash": "5a781577b18eb152b4785c1f3b483f6a59eabab5868233ad0e5587234f57e2da",
+      "title": "Results and Programs",
+      "url": "https://support.clearimpact.com/en/2023-results-and-programs",
+      "product": "scorecard",
+      "category": "Scorecard Objects",
+      "path": "scorecard\\2023-results-and-programs.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023resultsandprog-6lvf78c55lsl"
+    },
+    "scorecard-2023-results-or-programs-lists": {
+      "hash": "ef7300bcd446ef0297ef76f9565961b1c5a4d0f8930583b29fb55c5d62286655",
+      "title": "Results or Programs Lists",
+      "url": "https://support.clearimpact.com/en/2023-results-or-programs-lists",
+      "product": "scorecard",
+      "category": "Scorecard Objects",
+      "path": "scorecard\\2023-results-or-programs-lists.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023resultsorprogr-sctawswcdb3w"
+    },
+    "scorecard-2023-scheduling-a-report": {
+      "hash": "53e5218df080d05274d671f47900a0011981fcd922138b2c40da51c5694f19f2",
+      "title": "Scheduling a Report",
+      "url": "https://support.clearimpact.com/en/2023-scheduling-a-report",
+      "product": "scorecard",
+      "category": "Reports",
+      "path": "scorecard\\2023-scheduling-a-report.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023schedulingarep-z0n89m6ep0a7"
+    },
+    "scorecard-2023-scorecard-accountability-scoring": {
+      "hash": "73a96a6736657a922ccb9d653898291a586f515be07a3be472e51d9e7edb5970",
+      "title": "Scorecard Accountability Scoring",
+      "url": "https://support.clearimpact.com/en/2023-scorecard-accountability-scoring",
+      "product": "scorecard",
+      "category": "Scorecards",
+      "path": "scorecard\\2023-scorecard-accountability-scoring.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023scorecardaccou-z2bi1f2yh7a8"
+    },
+    "scorecard-2023-scorecard-backups-and-data-restoration": {
+      "hash": "0a7e1ee3cd45b54f261c1a35936fa1151ad077131e13e0ef51652d21cf8b0402",
+      "title": "Scorecard Backups and Data Restoration",
+      "url": "https://support.clearimpact.com/en/2023-scorecard-backups-and-data-restoration",
+      "product": "scorecard",
+      "category": "Getting Started",
+      "path": "scorecard\\2023-scorecard-backups-and-data-restoration.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023scorecardbacku-so91vgj8zhws"
+    },
+    "scorecard-2023-scorecard-columns": {
+      "hash": "8ea2aceb5ffcf3e6463f5287ab9a945d3164c2a882f507ff5f1acc96f49cca60",
+      "title": "Scorecard Columns",
+      "url": "https://support.clearimpact.com/en/2023-scorecard-columns",
+      "product": "scorecard",
+      "category": "Scorecards",
+      "path": "scorecard\\2023-scorecard-columns.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023scorecardcolum-dkvt6w9zihch"
+    },
+    "scorecard-2023-scorecard-copy-log": {
+      "hash": "806527fb9150114bf03b3c576d58aace2ce245f8be0e3dd4c61a24645d67af50",
+      "title": "Scorecard Copy Log",
+      "url": "https://support.clearimpact.com/en/2023-scorecard-copy-log",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\2023-scorecard-copy-log.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023scorecardcopyl-ybrj5w95jdoh"
+    },
+    "scorecard-2023-scorecard-hierarchy": {
+      "hash": "adc4d806117713e7d4565d3d474707e183e1f7123d472f11b46f0934037edf80",
+      "title": "Scorecard Hierarchy",
+      "url": "https://support.clearimpact.com/en/2023-scorecard-hierarchy",
+      "product": "scorecard",
+      "category": "Scorecards",
+      "path": "scorecard\\2023-scorecard-hierarchy.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023scorecardhiera-sfjtmtn5xn33"
+    },
+    "scorecard-2023-scorecard-instances": {
+      "hash": "1d46412edd8be182d9a43f57e61f271a5956f1d7064a48c37183d981385b0863",
+      "title": "Scorecard Instances",
+      "url": "https://support.clearimpact.com/en/2023-scorecard-instances",
+      "product": "scorecard",
+      "category": "Getting Started",
+      "path": "scorecard\\2023-scorecard-instances.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023scorecardinsta-6kmir49336l9"
+    },
+    "scorecard-2023-scorecards-list": {
+      "hash": "a27955dd6515eda3b85e6bd4cffc93bcf13f71bcebc92750149f99465101641f",
+      "title": "Scorecards List",
+      "url": "https://support.clearimpact.com/en/2023-scorecards-list",
+      "product": "scorecard",
+      "category": "Scorecards",
+      "path": "scorecard\\2023-scorecards-list.md",
+      "doc_name": null
+    },
+    "scorecard-2023-shared-containers-and-measures": {
+      "hash": "3265930b289d25490eac70be3406c42462057a6a137d12935f841bd0bdac282e",
+      "title": "Shared Containers and Measures",
+      "url": "https://support.clearimpact.com/en/2023-shared-containers-and-measures",
+      "product": "scorecard",
+      "category": "Scorecards",
+      "path": "scorecard\\2023-shared-containers-and-measures.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023sharedcontaine-ucj6prjp97dx"
+    },
+    "scorecard-2023-strategy-map": {
+      "hash": "9127fc1eeec9d39b9429992575beea33eaf48cafda3b0638dac89c8a9a68078c",
+      "title": "Strategy Map",
+      "url": "https://support.clearimpact.com/en/2023-strategy-map",
+      "product": "scorecard",
+      "category": "Viewing or Editing Scorecard Objects and Data",
+      "path": "scorecard\\2023-strategy-map.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023strategymap-w6jtt7hd1025"
+    },
+    "scorecard-2023-tags": {
+      "hash": "242f241cf604b369a67ed7955e5d034c8b62b00d13a159a900147253b4217fd7",
+      "title": "Tags",
+      "url": "https://support.clearimpact.com/en/2023-tags",
+      "product": "scorecard",
+      "category": "Scorecard Objects",
+      "path": "scorecard\\2023-tags.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023tags-hi4civ4a2qju"
+    },
+    "scorecard-2023-templates": {
+      "hash": "44f39d527708401ce9875a9e9393c1021bb5ebad73af2fb53cc391c4e5fdc987",
+      "title": "Templates",
+      "url": "https://support.clearimpact.com/en/2023-templates",
+      "product": "scorecard",
+      "category": "Tools",
+      "path": "scorecard\\2023-templates.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023templates-j7nyss6eijrk"
+    },
+    "scorecard-2023-user-lookup": {
+      "hash": "c8758a6e4ade8d5011a18c2197f855034b5ff6347533c1bcc499a4d0fa0e5494",
+      "title": "User Lookup",
+      "url": "https://support.clearimpact.com/en/2023-user-lookup",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\2023-user-lookup.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023userlookup-1xa3mfggdbhk"
+    },
+    "scorecard-2023-users": {
+      "hash": "284506a2e5580559e2eee30ad2ac14d605d25241e6adef32f1fb4e36b16fa39a",
+      "title": "Users, Roles, and Permissions",
+      "url": "https://support.clearimpact.com/en/2023-users",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\2023-users.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023users-032lgmeunqu4"
+    },
+    "scorecard-2023-variables": {
+      "hash": "7641d0b02673cd54627fb502f427b3157742df180dae12b285148e32c3f6c959",
+      "title": "Variables",
+      "url": "https://support.clearimpact.com/en/2023-variables",
+      "product": "scorecard",
+      "category": "Scorecard Objects",
+      "path": "scorecard\\2023-variables.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023variables-px1ngt0s8hr9"
+    },
+    "scorecard-2023-viewing-a-scorecard": {
+      "hash": "c7f6256d44132e9b0ea661cf8671cdaf82b83344e38b54e886424c619b6b2678",
+      "title": "Viewing a Scorecard",
+      "url": "https://support.clearimpact.com/en/2023-viewing-a-scorecard",
+      "product": "scorecard",
+      "category": "Viewing or Editing Scorecard Objects and Data",
+      "path": "scorecard\\2023-viewing-a-scorecard.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023viewingascorec-if5cphd2qkq4"
+    },
+    "scorecard-2023-viewing-or-editing-a-measure": {
+      "hash": "746918bdfc2c8b423c9cc3a64d6a358048100417869224024b515076241681ac",
+      "title": "Viewing or Editing a Measure",
+      "url": "https://support.clearimpact.com/en/2023-viewing-or-editing-a-measure",
+      "product": "scorecard",
+      "category": "Viewing or Editing Scorecard Objects and Data",
+      "path": "scorecard\\2023-viewing-or-editing-a-measure.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023viewingorediti-3ewwitws1gfg"
+    },
+    "scorecard-2023-viewing-or-editing-a-result-or-program": {
+      "hash": "82cb78ebd45a16217896d415c7507034e0f6848a3a56ed605e4e1f63e93afdeb",
+      "title": "Viewing or Editing a Result or Program",
+      "url": "https://support.clearimpact.com/en/2023-viewing-or-editing-a-result-or-program",
+      "product": "scorecard",
+      "category": "Viewing or Editing Scorecard Objects and Data",
+      "path": "scorecard\\2023-viewing-or-editing-a-result-or-program.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023viewingorediti-sczk7k6c46ei"
+    },
+    "scorecard-2023-what-are-reports": {
+      "hash": "3f8648de3e685d612241af92bcd6ea48ac9da89d382c019fed8d8ed9103430ee",
+      "title": "What are Reports?",
+      "url": "https://support.clearimpact.com/en/2023-what-are-reports",
+      "product": "scorecard",
+      "category": "Reports",
+      "path": "scorecard\\2023-what-are-reports.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecard2023whatarereports-de3zveuyuret"
+    },
+    "scorecard-adding-notes-with-ai-assist": {
+      "hash": "caac6110f2493956b5cef3767ad2e254280bc44bd86f5e155f057d1f3bb31e0e",
+      "title": "Adding Notes with AI Assist",
+      "url": "https://support.clearimpact.com/en/adding-notes-with-ai-assist",
+      "product": "scorecard",
+      "category": "Entering Scorecard Data and Notes",
+      "path": "scorecard\\adding-notes-with-ai-assist.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardaddingnoteswithaia-t923jmhjk1s6"
+    },
+    "scorecard-ai-assist-for-data-interpretation": {
+      "hash": "b0b0aae7eeb3e71ff2df1397838e07e2e6086cb9437d9eb80dbd357ffd6e86a2",
+      "title": "AI Assist for Data Interpretation",
+      "url": "https://support.clearimpact.com/en/ai-assist-for-data-interpretation",
+      "product": "scorecard",
+      "category": "Viewing or Editing Scorecard Objects and Data",
+      "path": "scorecard\\ai-assist-for-data-interpretation.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardaiassistfordataint-7tgwfgq8puys"
+    },
+    "scorecard-billing": {
+      "hash": "2c74a6df22877879d3c7e043a2df90e4ef68838c970ecd99c4a1cbfa1dd1c662",
+      "title": "Billing",
+      "url": "https://support.clearimpact.com/en/billing",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\billing.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardbilling-3ycc6pmvewdx"
+    },
+    "scorecard-comparison-only-measures": {
+      "hash": "c396ce915798bdbde53d404d1ebfaf3b8162973e02b2c02b9a2148eb1edced9b",
+      "title": "Comparison-Only Measures",
+      "url": "https://support.clearimpact.com/en/comparison-only-measures",
+      "product": "scorecard",
+      "category": "Viewing or Editing Scorecard Objects and Data",
+      "path": "scorecard\\comparison-only-measures.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardcomparisononlymeas-atz812a09zdv"
+    },
+    "scorecard-editing-calculated-data-values-for-a-measure": {
+      "hash": "cb5e17a2e1fc434265d2ac97d0e3fc8cf985475e73782307889b152c4965450c",
+      "title": "Editing Calculated Data Values for a Measure",
+      "url": "https://support.clearimpact.com/en/editing-calculated-data-values-for-a-measure",
+      "product": "scorecard",
+      "category": "Entering Scorecard Data and Notes",
+      "path": "scorecard\\editing-calculated-data-values-for-a-measure.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardeditingcalculatedd-hxx2ansew1vu"
+    },
+    "scorecard-education-in-action-leveraging-data-and-technology-to-improve-student-outcomes": {
+      "hash": "69838e102ebd1a3b8231d496d57a5a537437f09fffa8a8c632c464324ddd02a6",
+      "title": "Education in Action: Leveraging RBA, Data, and Technology to Improve Student Outcomes",
+      "url": "https://support.clearimpact.com/en/education-in-action-leveraging-data-and-technology-to-improve-student-outcomes",
+      "product": "scorecard",
+      "category": "Customer Success Stories",
+      "path": "scorecard\\education-in-action-leveraging-data-and-technology-to-improve-student-outcomes.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardeducationinactionl-9xx4xztzomzj"
+    },
+    "scorecard-exporting-scorecard-data-files": {
+      "hash": "660a4a798515c69e8968e84bc0599c3fa4b4f3685507b3d16149ae438166c779",
+      "title": "Download Center: Exporting Scorecard Data",
+      "url": "https://support.clearimpact.com/en/exporting-scorecard-data-files",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\exporting-scorecard-data-files.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardexportingscorecard-nxmykbh841d3"
+    },
+    "scorecard-frequency-asked-questions": {
+      "hash": "82b184cb32adea4dc191a5f083c5c47ca7b8eafe776f150a2d3c6e75b057f79b",
+      "title": "Common Scorecard Questions",
+      "url": "https://support.clearimpact.com/en/frequency-asked-questions",
+      "product": "scorecard",
+      "category": "FAQ (Scorecard)",
+      "path": "scorecard\\frequency-asked-questions.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardfrequencyaskedques-awv2oks1budt"
+    },
+    "scorecard-how-to-restore-an-earlier-version-of-a-note": {
+      "hash": "b78f60ebd6fb99d3b23bf1f532f33d8c45c248b5256ac550706666899952ceb9",
+      "title": "How To Restore an Earlier Version of a Note",
+      "url": "https://support.clearimpact.com/en/how-to-restore-an-earlier-version-of-a-note",
+      "product": "scorecard",
+      "category": "FAQ (Scorecard)",
+      "path": "scorecard\\how-to-restore-an-earlier-version-of-a-note.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardhowtorestoreanearl-rmlt232gbsa9"
+    },
+    "scorecard-scorecard-2023-upgrade-notes": {
+      "hash": "1a681624a818929a684af683c90e4ef3b0b56a26f54aa2670ffe0386466d8def",
+      "title": "Scorecard 2023 Upgrade Notes",
+      "url": "https://support.clearimpact.com/en/scorecard-2023-upgrade-notes",
+      "product": "scorecard",
+      "category": "Upgrade Notes",
+      "path": "scorecard\\scorecard-2023-upgrade-notes.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardscorecard2023upgra-0046cedjrpk6"
+    },
+    "scorecard-scorecard-2024-upgrade-notes": {
+      "hash": "b209e7c4e1e4f23066ade2bf18c38c60b3182a99ad4d67468073adc321419058",
+      "title": "Scorecard 2024 Upgrade Notes",
+      "url": "https://support.clearimpact.com/en/scorecard-2024-upgrade-notes",
+      "product": "scorecard",
+      "category": "Upgrade Notes",
+      "path": "scorecard\\scorecard-2024-upgrade-notes.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardscorecard2024upgra-3hevaz7twf9z"
+    },
+    "scorecard-scorecard-2025-upgrade-notes": {
+      "hash": "6a17d5c5b2ae56cdf7cd56885a2bf36267ca69b947937c574ddbdb9fcb2108c0",
+      "title": "Scorecard 2025 Upgrade Notes",
+      "url": "https://support.clearimpact.com/en/scorecard-2025-upgrade-notes",
+      "product": "scorecard",
+      "category": "Upgrade Notes",
+      "path": "scorecard\\scorecard-2025-upgrade-notes.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardscorecard2025upgra-jj2scuwzi10p"
+    },
+    "scorecard-scorecard-2026-upgrade-notes": {
+      "hash": "7d03aea2ddedc5277c9797e361e39ceb62fc1d4881c9b093825ef976180727eb",
+      "title": "Scorecard 2026 Upgrade Notes",
+      "url": "https://support.clearimpact.com/en/scorecard-2026-upgrade-notes",
+      "product": "scorecard",
+      "category": "Upgrade Notes",
+      "path": "scorecard\\scorecard-2026-upgrade-notes.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardscorecard2026upgra-t9i6w2a8peha"
+    },
+    "scorecard-scorecard-calculations-log": {
+      "hash": "6bbf7aa0d945fe62c5aae557cb85d52a45f943d9cad2b93b1a953484e7733c73",
+      "title": "Scorecard Calculations Log",
+      "url": "https://support.clearimpact.com/en/scorecard-calculations-log",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\scorecard-calculations-log.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardscorecardcalculati-cwlqefm7g2xx"
+    },
+    "scorecard-scorecard-control": {
+      "hash": "d09762432c7f2d07feda7eb9ba658a4acd55c3ef0fab76d379161859ca419c3d",
+      "title": "Scorecard & Control 2025 Q1 Upgrade Review",
+      "url": "https://support.clearimpact.com/en/scorecard-control",
+      "product": "scorecard",
+      "category": "Upgrade Videos",
+      "path": "scorecard\\scorecard-control.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardscorecardcontrol-spiiu2jx3f0n"
+    },
+    "scorecard-scorecard-dashboard-widgets": {
+      "hash": "89fd85a1245b49d5e8d8e512d3a6551c056beff86b3aba675921ac67f96d45cd",
+      "title": "Scorecard Dashboard Widgets",
+      "url": "https://support.clearimpact.com/en/scorecard-dashboard-widgets",
+      "product": "scorecard",
+      "category": "Getting Started",
+      "path": "scorecard\\scorecard-dashboard-widgets.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardscorecarddashboard-uxfk7gzpin9s"
+    },
+    "scorecard-scorecard-q1-2024-upgrade-review-webinar": {
+      "hash": "76af0759c5e5c8237e0627ba6f7e4ff7a045d86c5538784f0346d75f004919c7",
+      "title": "Scorecard Q1 2024 Upgrade Review Webinar",
+      "url": "https://support.clearimpact.com/en/scorecard-q1-2024-upgrade-review-webinar",
+      "product": "scorecard",
+      "category": "Upgrade Videos",
+      "path": "scorecard\\scorecard-q1-2024-upgrade-review-webinar.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardscorecardq12024upg-tkfc3f2pihgh"
+    },
+    "scorecard-scorecard-q2-2024-upgrade-review-webinar": {
+      "hash": "9806322ec1aca2faa674d39e6ffe07bc9ddb1a794566532d0b0001b1863592f2",
+      "title": "Scorecard Q2 2024 Upgrade Review Webinar",
+      "url": "https://support.clearimpact.com/en/scorecard-q2-2024-upgrade-review-webinar",
+      "product": "scorecard",
+      "category": "Upgrade Videos",
+      "path": "scorecard\\scorecard-q2-2024-upgrade-review-webinar.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardscorecardq22024upg-qdyfg1x89r7o"
+    },
+    "scorecard-scorecard-wizard": {
+      "hash": "20c0bcaf6fc9c306ba6e7172880c01ad4dc65166513cb7843ca4ccacc3a597fb",
+      "title": "Scorecard Wizard",
+      "url": "https://support.clearimpact.com/en/scorecard-wizard",
+      "product": "scorecard",
+      "category": "Scorecards",
+      "path": "scorecard\\scorecard-wizard.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardscorecardwizard-qnq6y4v8popr"
+    },
+    "scorecard-user-activity": {
+      "hash": "481abb59fe6db5a596050c3e4b35f5b5a423cda06aa10a0103797bd14fbe5884",
+      "title": "User Activity",
+      "url": "https://support.clearimpact.com/en/user-activity",
+      "product": "scorecard",
+      "category": "Site-Level Settings",
+      "path": "scorecard\\user-activity.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecarduseractivity-2oeb7sol9yby"
+    },
+    "scorecard-video-1": {
+      "hash": "2844ee4a5b607396469c00526ba85e0729044ea999c1104339340c8ad19e5a5e",
+      "title": "Video 1: Scorecard UI Tour",
+      "url": "https://support.clearimpact.com/en/video-1",
+      "product": "scorecard",
+      "category": "Scorecard Video Tutorials",
+      "path": "scorecard\\video-1.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardvideo1-r90mfy0xjg0v"
+    },
+    "scorecard-video-2": {
+      "hash": "c347132a3e52ae8d1fc9e44fd12ab98ad31c59080c49d2bff50260fab71c6ea3",
+      "title": "Video 2: What is a Scorecard?",
+      "url": "https://support.clearimpact.com/en/video-2",
+      "product": "scorecard",
+      "category": "Scorecard Video Tutorials",
+      "path": "scorecard\\video-2.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardvideo2-n4nx0766pqgd"
+    },
+    "scorecard-what-is-a-scorecard-1": {
+      "hash": "0935683b0d716582dcb33e8b74e5b01eba08d84e68404edbb11fe34ec62370eb",
+      "title": "What is a Scorecard?",
+      "url": "https://support.clearimpact.com/en/what-is-a-scorecard-1",
+      "product": "scorecard",
+      "category": "Getting Started",
+      "path": "scorecard\\what-is-a-scorecard-1.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardwhatisascorecard1-tde45jdl6kiz"
+    },
+    "scorecard-what-is-an-api-and-what-do-you-need-to-use-it": {
+      "hash": "dc1a09310c70e15fc8ae19bf5619dd5d1b78c465905288b07d1c4be11f0a140e",
+      "title": "What is an API and What do You Need to Make Use of an API",
+      "url": "https://support.clearimpact.com/en/what-is-an-api-and-what-do-you-need-to-use-it",
+      "product": "scorecard",
+      "category": "FAQ (Scorecard)",
+      "path": "scorecard\\what-is-an-api-and-what-do-you-need-to-use-it.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardwhatisanapiandwhat-ttggw4hacef2"
+    }
+  }
+}

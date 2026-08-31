@@ -1,0 +1,18 @@
+# Convenience wrapper for building and running the content pipeline.
+#   docker compose run --rm kb-pipeline        # run one refresh now
+# The named volume keeps manifest.json between runs.
+services:
+  kb-pipeline:
+    build: .
+    image: clearimpact-kb-pipeline
+    environment:
+      GEMINI_API_KEY: ${GEMINI_API_KEY:?Set GEMINI_API_KEY in your shell or a .env file}
+      # Optional overrides (defaults live in config.py):
+      # GEMINI_MODEL: gemini-3.1-flash-lite
+      # STORE_DISPLAY_NAME: support-kb
+    volumes:
+      - kb-data:/data
+    restart: "no"
+
+volumes:
+  kb-data:

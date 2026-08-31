@@ -1,0 +1,4 @@
+# Dependencies for hubspot_export.py (the Clear Impact help center exporter)
+requests>=2.31
+trafilatura>=1.8
+beautifulsoup4>=4.12

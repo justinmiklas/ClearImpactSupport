@@ -1,0 +1,13 @@
+# Secrets — NEVER commit
+.env
+
+# Local-only / regenerated
+kb/
+export_skipped.txt
+__pycache__/
+*.pyc
+*.zip
+.venv/
+venv/
+
+# NOTE: manifest.json IS committed on purpose — the server reads it at runtime.
