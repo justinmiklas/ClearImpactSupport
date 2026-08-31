@@ -17,14 +17,20 @@
   const PRODUCT = script.getAttribute("data-product") || "scorecard";
   const ACCENT = script.getAttribute("data-accent") || "#2563eb";
   const TITLE = script.getAttribute("data-title") || "Support Assistant";
+  const LABEL = script.getAttribute("data-label") || "Ask AI";
+  const LAUNCH_COLOR = script.getAttribute("data-launch-color") || ACCENT;
 
   const history = [];
 
   // ---- styles -------------------------------------------------------------
   const css = `
-    .sb-launch{position:fixed;bottom:24px;right:24px;width:56px;height:56px;border-radius:50%;
-      background:${ACCENT};color:#fff;border:none;cursor:pointer;box-shadow:0 4px 16px rgba(0,0,0,.2);
-      font-size:24px;z-index:2147483000;display:flex;align-items:center;justify-content:center}
+    .sb-launch{position:fixed;bottom:24px;right:24px;display:inline-flex;align-items:center;gap:8px;
+      height:52px;padding:0 20px;border-radius:999px;background:${LAUNCH_COLOR};color:#fff;border:none;
+      cursor:pointer;box-shadow:0 6px 18px rgba(0,0,0,.24);font-family:inherit;font-size:15px;
+      font-weight:600;line-height:1;z-index:2147483000}
+    .sb-launch svg{width:20px;height:20px;flex:0 0 auto}
+    .sb-launch:hover{filter:brightness(1.05)}
+    .sb-launch:active{transform:translateY(1px)}
     .sb-panel{position:fixed;bottom:92px;right:24px;width:380px;max-width:calc(100vw - 32px);
       height:560px;max-height:calc(100vh - 120px);background:#fff;border-radius:14px;
       box-shadow:0 12px 40px rgba(0,0,0,.22);display:none;flex-direction:column;overflow:hidden;
@@ -122,8 +128,11 @@
   // ---- DOM ----------------------------------------------------------------
   const launch = document.createElement("button");
   launch.className = "sb-launch";
-  launch.innerHTML = "&#128172;";
-  launch.setAttribute("aria-label", "Open support assistant");
+  launch.innerHTML =
+    '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">' +
+    '<path d="M4 4h16a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H9l-5 4V5a1 1 0 0 1 1-1z"/></svg>' +
+    '<span>' + escapeHtml(LABEL) + '</span>';
+  launch.setAttribute("aria-label", LABEL);
 
   const panel = document.createElement("div");
   panel.className = "sb-panel";
