@@ -135,8 +135,17 @@
       <button class="sb-send">Send</button>
     </div>`;
 
-  document.body.appendChild(launch);
-  document.body.appendChild(panel);
+  // The snippet may be placed in the page <head> (HubSpot KB articles only offer
+  // a Head HTML field), which runs before <body> exists — so defer insertion.
+  function mountWidget() {
+    document.body.appendChild(launch);
+    document.body.appendChild(panel);
+  }
+  if (document.body) {
+    mountWidget();
+  } else {
+    document.addEventListener("DOMContentLoaded", mountWidget);
+  }
 
   const log = panel.querySelector(".sb-log");
   const input = panel.querySelector(".sb-input");
@@ -217,8 +226,10 @@
     panel.classList.toggle("open");
     if (panel.classList.contains("open")) {
       if (!log.children.length) {
-        addMessage("bot", "Hi! Ask me anything about " +
-          (PRODUCT === "compyle" ? "Compyle" : "Clear Impact Scorecard") +
+        var pname = PRODUCT === "compyle" ? "Compyle"
+                  : PRODUCT === "suite" ? "Clear Impact"
+                  : "Clear Impact Scorecard";
+        addMessage("bot", "Hi! Ask me anything about " + pname +
           " and I'll answer from our help documentation.");
       }
       input.focus();
