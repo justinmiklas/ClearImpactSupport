@@ -2484,6 +2484,15 @@
       "category": "FAQ (Scorecard)",
       "path": "scorecard\\what-is-an-api-and-what-do-you-need-to-use-it.md",
       "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardwhatisanapiandwhat-ttggw4hacef2"
+    },
+    "scorecard-showcase-documentation": {
+      "hash": "99b41f33c96b292a4fc541a50ef0c42f0a41d28bc45524644d7de6452334fceb",
+      "title": "Showcase Documentation",
+      "url": "https://support.clearimpact.com/en/showcase-documentation",
+      "product": "scorecard",
+      "category": "Showcase Documentation",
+      "path": "scorecard\\showcase-documentation.md",
+      "doc_name": "fileSearchStores/supportkb-3vtyvcjuw2g5/documents/scorecardshowcasedocumentat-z7ciuspq38uz"
     }
   }
 }
